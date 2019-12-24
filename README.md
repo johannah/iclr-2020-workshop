@@ -34,17 +34,17 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 
 ## Organizing Committee
 
-[S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/) Postdoc at Mila   
-[Aaron Courville](https://mila.quebec/en/person/aaron-courville/) Professor at Mila and Université de Montréal  
-[Kelly Kochanski](https://www.kochanski.org/kelly/) PhD Candidate CU Boulder  
+[S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/), Postdoc at Mila   
+[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Professor at Mila and Université de Montréal  
+[Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate CU Boulder  
 
 ## Steering Committee
 
-[Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/) Chaired Professor at Minnesota in Computer Science and Engineering  
-[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine) Associate Professor of Earth and Environmental Engineering, Columbia University    
-[Trooper Sanders](https://twitter.com/troopersanders?lang=en) CEO, Benefits Data Trust    
-[Mary C Hill](https://geo.ku.edu/hill-mary-c) Professor of Geology at University of Kansas    
-[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/) Chaired Professor at McGill School of Computer Science     
+[Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/), Chaired Professor at Minnesota in Computer Science and Engineering  
+[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
+[Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
+[Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
+[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science     
 
 ## Contact Us
 
