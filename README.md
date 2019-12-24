@@ -14,33 +14,37 @@ In addition, we seek Earth science applications from vision, robotics and reinfo
 
 ## Submission Instructions
 
+There are two options for workshop submission: 
+
 1) Full Paper submission: 3-6 pages excluding references and supplementary
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
+All submissions should be in ICLR format. Submission link will be available 1 Feb 2020. 
+
 ## Important Dates
 
-7 Feb 2020 Full Paper Deadline    
-14 Feb 2020 Abstract-Only Deadline 
-TBA Workshop Date  
+**7 Feb 2020** - Full Paper Deadline    
+**14 Feb 2020** - Abstract-Only Deadline 
+**TBA** - Workshop Date  
 
 ## Schedule
 
-The full day workshop will include keynotes, invited talks, regular talks, spotlight talks, and a panel discussion with a mix of keynote speakers and organisers with audience Q/A. Posters will be available throughout in addition to a dedicated poster viewing session. 
+This full day workshop will include keynotes, invited talks, regular talks, spotlight talks, and a panel discussion with a mix of keynote speakers and organisers with audience Q/A. Posters will be available throughout the day and in a dedicated poster viewing session. 
 
 ## Organizing Committee
 
-[S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/)  
-[Aaron Courville](https://mila.quebec/en/person/aaron-courville/)  
-[Kelly Kochanski](https://www.kochanski.org/kelly/)  
+[S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/) Postdoc at Mila   
+[Aaron Courville](https://mila.quebec/en/person/aaron-courville/) Professor at Mila and Université de Montréal  
+[Kelly Kochanski](https://www.kochanski.org/kelly/) PhD Candidate CU Boulder  
 
 ## Steering Committee
 
-[Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/)  
-[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine)  
-[Trooper Sanders](https://twitter.com/troopersanders?lang=en)  
-[Mary C Hill](https://geo.ku.edu/hill-mary-c)  
-[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)  
+[Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/) Chaired Professor at Minnesota in Computer Science and Engineering  
+[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine) Associate Professor of Earth and Environmental Engineering, Columbia University    
+[Trooper Sanders](https://twitter.com/troopersanders?lang=en) CEO, Benefits Data Trust    
+[Mary C Hill](https://geo.ku.edu/hill-mary-c) Professor of Geology at University of Kansas    
+[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/) Chaired Professor at McGill School of Computer Science     
 
 ## Contact Us
 
