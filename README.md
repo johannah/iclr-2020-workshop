@@ -25,7 +25,7 @@ All submissions should be in ICLR format. Submission link will be available 1 Fe
 ## Important Dates
 
 **7 Feb 2020** - Full Paper Deadline    
-**14 Feb 2020** - Abstract-Only Deadline     
+**14 Feb 2020** - Abstract-Only Deadline        
 **TBA** - Workshop Date    
 
 ## Schedule
