@@ -35,7 +35,7 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 ## Organizing Committee
 
 [S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/), Postdoc at Mila   
-[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Professor at Mila and Université de Montréal  
+[Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Associate Professor at Mila and Université de Montréal  
 [Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate CU Boulder  
 
 ## Steering Committee
