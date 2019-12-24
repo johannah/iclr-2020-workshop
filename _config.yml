@@ -1,1 +1,9 @@
+  
 theme: jekyll-theme-cayman
+title: "AI for Earth Sciences"
+tagline: "November 8 in Room LG-R20"
+tagline: "@ICLR 2020 Addis Ababa"
+github:
+  is_project_page: false
+kramdown:
+    auto_ids: true
