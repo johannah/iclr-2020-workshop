@@ -24,6 +24,10 @@ In addition, we seek Earth science applications from vision, robotics and reinfo
 14 Feb 2020 Abstract-Only Deadline 
 TBA Workshop Date  
 
+## Schedule
+
+The full day workshop will include keynotes, invited talks, regular talks, spotlight talks, and a panel discussion with a mix of keynote speakers and organisers with audience Q/A. Posters will be available throughout in addition to a dedicated poster viewing session. 
+
 ## Organizing Committee
 
 [S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/)  
