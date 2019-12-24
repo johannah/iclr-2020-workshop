@@ -4,30 +4,40 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
+## Topics of Interest
 
-## Call for Submissions
+We call for papers demonstrating novel machine learning techniques in remote sensing for meteorology and geosciences, generative Earth system modeling, and transfer learning from geophysics and numerical simulations and uncertainty in Earth science learning representations. 
 
-We call for papers demonstrating novel machine learning techniques in remote sensing for meteorology and geosciences, generative Earth system modeling, and transfer learning from geophysics and numerical simulations and uncertainty in Earth science learning representations. We also seek theoretical developments in interpretable machine learning in meteorology and geoscientific models, hybrid models with Earth science knowledge guided machine learning, representation learning from graphs and manifolds in spatiotemporal models and dimensionality reduction in Earth sciences. In addition, we seek Earth science applications from vision, robotics and reinforcement learning. New labelled Earth science datasets and visualizations with machine learning is also of particular interest.
+We also seek theoretical developments in interpretable machine learning in meteorology and geoscientific models, hybrid models with Earth science knowledge guided machine learning, representation learning from graphs and manifolds in spatiotemporal models and dimensionality reduction in Earth sciences. 
 
-#### Two tracks are available for submission:
+In addition, we seek Earth science applications from vision, robotics and reinforcement learning. New labelled Earth science datasets and visualizations with machine learning is also of particular interest.
 
-1) 7 Feb 2020 full (theoretical/experimental/dataset) paper submission: 3-6 pages excluding references and supplementary
+## Submission Instructions
 
-2) 14 Feb 2020 abstract-only submission: 300 word limit (AGU/EGU style abstract)
+1) Full Paper submission: 3-6 pages excluding references and supplementary
 
-## Organizers
+2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-[S. Karthik Mukkavilli]()  
-[Aaron Courville]()  
-[Kelly Kochanski]()  
+## Important Dates
+
+7 Feb 2020 Full Paper Deadline    
+14 Feb 2020 Abstract-Only Deadline 
+TBA Workshop Date  
+
+## Organizing Committee
+
+[S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/)  
+[Aaron Courville](https://mila.quebec/en/person/aaron-courville/)  
+[Kelly Kochanski](https://www.kochanski.org/kelly/)  
 
 ## Steering Committee
 
-[Vipin Kumar]()  
-[Pierre Gentine]()  
-[Trooper Sanders]()  
-[Mary C Hill]()  
-[Gregory Dudek]()  
+[Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/)  
+[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine)  
+[Trooper Sanders](https://twitter.com/troopersanders?lang=en)  
+[Mary C Hill](https://geo.ku.edu/hill-mary-c)  
+[Gregory Dudek](http://www.cim.mcgill.ca/~dudek/)  
 
-## Contact us
+## Contact Us
+
 Send inquiries to ai4earthscience[at]gmail[dot]com
