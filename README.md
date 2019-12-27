@@ -25,7 +25,7 @@ There are two tracks for workshop submission:
 
 **7 Feb 2020** - Full Paper Deadline   
 **14 Feb 2020** - Abstract-Only Deadline   
-**25 Feb 2020** - Acceptance Notifications
+**25 Feb 2020** - Acceptance Notifications  
 **26 April 2020** - Workshop Date    
 
 Deadlines are at 11:59 PST (California time) of date listed.
