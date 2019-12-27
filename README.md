@@ -14,19 +14,21 @@ In addition, we seek Earth science applications from vision, robotics and reinfo
 
 ## Submission Instructions
 
-There are two options for workshop submission: 
+There are two tracks for workshop submission: 
 
-1) Full Paper submission: 3-6 pages excluding references and supplementary
+1) Full Paper submission: 3-6 pages excluding references and supplementary materials. Papers are encouraged to use [ICLR Format](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip). We also welcome dataset labeling papers submitted as a 3 page proposal as described in [AI4Earth](https://ai4edevshare.blob.core.windows.net/ai4emisc/Proposal%20Requirements.pdf)
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-All submissions should be in ICLR format. Submission link will be available 1 Feb 2020. 
 
 ## Important Dates
 
-**7 Feb 2020** - Full Paper Deadline    
-**14 Feb 2020** - Abstract-Only Deadline        
-**TBA** - Workshop Date    
+**7 Feb 2020** - Full Paper Deadline   
+**14 Feb 2020** - Abstract-Only Deadline   
+**25 Feb 2020** - Acceptance Notifications
+**26 April 2020** - Workshop Date    
+
+Deadlines are at 11:59 PST (California time) of date listed.
 
 ## Schedule
 
@@ -61,6 +63,7 @@ Daniel Fuka, Virginia Tech
 David Meger, McGill University  
 Victor Schmidt, Mila  
 Aven-Satre Meloy, Oxford  
+Tom Beucler, UC Irvine
 
 ## Contact Us
 
