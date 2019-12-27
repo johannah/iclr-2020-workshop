@@ -36,7 +36,8 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 
 [S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/), Postdoc at Mila   
 [Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Associate Professor at Mila and Université de Montréal  
-[Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate CU Boulder  
+[Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate at CU Boulder  
+[Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University
 
 ## Steering Committee
 
@@ -45,6 +46,21 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 [Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
 [Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science     
+
+## Program Committee
+Redouane Lguensat, CNES/Universite Grenoble Alpes  
+Julien Brajard, Sorbonne University  
+Udit Bhatia, IIT Gandhinagar  
+Philippe Tissot, Texas A & M   
+Auroop Ganguly, Northeastern  
+Amy McGovern, University of Oklahoma  
+David Gagne, NCAR  
+Karthik Kashinath, Berkeley  
+Christiane Jablonowski, University of Michigan   
+Daniel Fuka, Virginia Tech  
+David Meger, McGill University  
+Victor Schmidt, Mila  
+Aven-Satre Meloy, Oxford  
 
 ## Contact Us
 
