@@ -20,7 +20,7 @@ There are two tracks for workshop submission:
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop Registration is necessary for attendance, but one need not attend entire the conference. 
+Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop Registration is necessary for attendance, but one need not attend the entire conference. 
  
  
 ## Important Dates
