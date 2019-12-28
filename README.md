@@ -20,18 +20,19 @@ There are two tracks for workshop submission:
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020)
+Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop Registration is necessary for attendance, but one need not attend entire the conference. 
  
  
 ## Important Dates
 
-**21 Jan 2020*** - ICLR Registration opens (Workshop Registration is necessary for attendance)
+**21 Jan 2020*** - ICLR Registration opens 
 **7 Feb 2020** - Full Paper Deadline   
 **14 Feb 2020** - Abstract-Only Deadline   
 **25 Feb 2020** - Acceptance Notifications  
 **26 April 2020** - Workshop Date    
 
 Deadlines are at 11:59 PST (California time) of date listed.
+
 
 ## Schedule
 
