@@ -20,8 +20,7 @@ There are two tracks for workshop submission:
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop Registration is necessary for attendance, but one need not attend the entire conference. 
- 
+Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop Registration is necessary for attendance, but one need not attend the entire conference.  
  
 ## Important Dates
 
@@ -32,7 +31,6 @@ Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR20
 **26 April 2020** - Workshop Date     
 
 Deadlines are at 11:59 PST (California time) of date listed.
-
 
 ## Schedule
 
@@ -48,28 +46,16 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 ## Steering Committee
 
 [Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/), Chaired Professor at Minnesota in Computer Science and Engineering  
-[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
-[Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
-[Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science     
+[Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
+[Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
+[Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
 Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
+[Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown
 
 ## Program Committee
-Redouane Lguensat, CNES/Universite Grenoble Alpes  
-Julien Brajard, NERSC/Sorbonne University  
-Udit Bhatia, IIT Gandhinagar  
-Philippe Tissot, Texas A & M   
-Auroop Ganguly, Northeastern  
-Amy McGovern, University of Oklahoma  
-David Gagne, NCAR  
-Karthik Kashinath, Berkeley Lab  
-Christiane Jablonowski, University of Michigan   
-Daniel Fuka, Virginia Tech  
-David Meger, McGill University  
-Victor Schmidt, Mila  
-Aven-Satre Meloy, Oxford  
-Tom Beucler, UC Irvine 
-
+Auroop Ganguly (Northeastern); Philippe Tissot (Texas A & M); Amy McGovern (University of Oklahoma); David Gagne (NCAR); Ashley Pilipszyn (Stanford and Open AI); David Meger (McGill); Karthik Kashinath (Berkeley Lab); Christiane Jablonowski (University of Michigan); Daniel Fuka (Virginia Tech); Julien Brajard (NERSC/Sorbonne University); Udit Bhatia (IIT Gandhinagar); Redouane Lguensat (CNES/Universite Grenoble Alpes); Victor Schmidt (Mila); Tom Beucler (UC Irvine); Aven-Satre Meloy (Oxford); Agnieszka Słowik (Cambridge)
+ 
 ## Contact Us
 
 Send inquiries to ai4earthscience[at]gmail[dot]com
