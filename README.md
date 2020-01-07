@@ -49,8 +49,9 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science     
 [Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
 [Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
-[Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
-Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)                                                                               [Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown
+[Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust     
+[Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown    
+Paul D. Miller, aka [DJ Spooky](http://djspooky.com/) 
 
 ## Program Committee
 
