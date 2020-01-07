@@ -53,8 +53,10 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 [Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science     
 Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
+[Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown
 
 ## Program Committee
+Ashley Pilipiszyn, Stanford and OpenAI 
 Redouane Lguensat, CNES/Universite Grenoble Alpes  
 Julien Brajard, NERSC/Sorbonne University  
 Udit Bhatia, IIT Gandhinagar  
@@ -68,8 +70,7 @@ Daniel Fuka, Virginia Tech
 David Meger, McGill University  
 Victor Schmidt, Mila  
 Aven-Satre Meloy, Oxford  
-Tom Beucler, UC Irvine
-Ashley Pilipiszyn, Stanford and OpenAI  
+Tom Beucler, UC Irvine 
 Agnieszka Slowik, University of Cambridge  
 
 ## Contact Us
