@@ -52,22 +52,25 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 [Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
 [Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
 [Gregory Dudek](http://www.cim.mcgill.ca/~dudek/), Chaired Professor at McGill School of Computer Science     
+Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
 
 ## Program Committee
 Redouane Lguensat, CNES/Universite Grenoble Alpes  
-Julien Brajard, Sorbonne University  
+Julien Brajard, NERSC/Sorbonne University  
 Udit Bhatia, IIT Gandhinagar  
 Philippe Tissot, Texas A & M   
 Auroop Ganguly, Northeastern  
 Amy McGovern, University of Oklahoma  
 David Gagne, NCAR  
-Karthik Kashinath, Berkeley  
+Karthik Kashinath, Berkeley Lab  
 Christiane Jablonowski, University of Michigan   
 Daniel Fuka, Virginia Tech  
 David Meger, McGill University  
 Victor Schmidt, Mila  
 Aven-Satre Meloy, Oxford  
 Tom Beucler, UC Irvine
+Ashley Pilipiszyn, Stanford and OpenAI  
+Agnieszka Slowik, University of Cambridge  
 
 ## Contact Us
 
