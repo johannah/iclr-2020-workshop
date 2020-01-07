@@ -20,7 +20,7 @@ There are two tracks for workshop submission:
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop Registration is necessary for attendance, but one need not attend the entire conference.  
+Submissions may be made on [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). ICLR workshop registration is necessary for attendance, but one need not attend the entire conference.  
  
 ## Important Dates
 
@@ -34,7 +34,7 @@ Deadlines are at 11:59 PST (California time) of date listed.
 
 ## Schedule
 
-This full day workshop will include keynotes, invited talks, regular talks, spotlight talks, and a panel discussion with a mix of keynote speakers and organisers with audience Q/A. Posters will be available throughout the day and in a dedicated poster viewing session. 
+This full day workshop will include keynotes, invited talks, regular talks, spotlight talks, and a panel discussion with a mix of keynote speakers and organisers with audience Q/A. Posters will be available throughout the day and in a dedicated viewing session. 
 
 ## Organizing Committee
 
