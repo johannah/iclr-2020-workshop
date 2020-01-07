@@ -1,6 +1,6 @@
 ## AI for Earth Sciences
 
-Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the appli- cation of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
+Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
@@ -54,7 +54,23 @@ Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
 [Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown
 
 ## Program Committee
-Auroop Ganguly (Northeastern); Philippe Tissot (Texas A & M); Amy McGovern (University of Oklahoma); David Gagne (NCAR); Ashley Pilipszyn (Stanford and Open AI); David Meger (McGill); Karthik Kashinath (Berkeley Lab); Christiane Jablonowski (University of Michigan); Daniel Fuka (Virginia Tech); Julien Brajard (NERSC/Sorbonne University); Udit Bhatia (IIT Gandhinagar); Redouane Lguensat (CNES/Universite Grenoble Alpes); Victor Schmidt (Mila); Tom Beucler (UC Irvine); Aven-Satre Meloy (Oxford); Agnieszka Słowik (Cambridge)
+
+Auroop Ganguly (Northeastern)
+Philippe Tissot (Texas A & M)
+Amy McGovern (University of Oklahoma)
+David Gagne (NCAR)
+Ashley Pilipszyn (Stanford and Open AI)
+David Meger (McGill)
+Karthik Kashinath (Berkeley Lab)
+Christiane Jablonowski (University of Michigan)
+Daniel Fuka (Virginia Tech)
+Julien Brajard (NERSC/Sorbonne University)
+Udit Bhatia (IIT Gandhinagar)
+Redouane Lguensat (CNES/Universite Grenoble Alpes)
+Victor Schmidt (Mila)
+Tom Beucler (UC Irvine)
+Aven-Satre Meloy (Oxford)
+Agnieszka Słowik (Cambridge)
  
 ## Contact Us
 
