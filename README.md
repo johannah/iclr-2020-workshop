@@ -55,8 +55,7 @@ Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
 
 ## Program Committee
 
-Auroop Ganguly (Northeastern); Philippe Tissot (Texas A & M); Amy McGovern (University of Oklahoma); David Gagne (NCAR)
-Ashley Pilipszyn (Stanford and Open AI); David Meger (McGill); Karthik Kashinath (Berkeley Lab); Christiane Jablonowski (University of Michigan); Daniel Fuka (Virginia Tech); Julien Brajard (NERSC/Sorbonne University); Udit Bhatia (IIT Gandhinagar); Redouane Lguensat (CNES/Universite Grenoble Alpes); Victor Schmidt (Mila); Tom Beucler (UC Irvine); Aven-Satre Meloy (Oxford); Agnieszka Słowik (Cambridge)
+Auroop Ganguly (Northeastern); Philippe Tissot (Texas A & M); Amy McGovern (University of Oklahoma); David Gagne (NCAR); Ashley Pilipszyn (Stanford and Open AI); David Meger (McGill); Karthik Kashinath (Berkeley Lab); Christiane Jablonowski (University of Michigan); Daniel Fuka (Virginia Tech); Julien Brajard (NERSC/Sorbonne University); Udit Bhatia (IIT Gandhinagar); Redouane Lguensat (CNES/Universite Grenoble Alpes); Victor Schmidt (Mila); Tom Beucler (UC Irvine); Aven-Satre Meloy (Oxford); Agnieszka Słowik (Cambridge)
  
 ## Contact Us
 
