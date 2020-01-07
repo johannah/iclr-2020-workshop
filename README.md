@@ -50,27 +50,12 @@ This full day workshop will include keynotes, invited talks, regular talks, spot
 [Pierre Gentine](https://eee.columbia.edu/faculty/pierre-gentine), Associate Professor of Earth and Environmental Engineering, Columbia University    
 [Mary C Hill](https://geo.ku.edu/hill-mary-c), Professor of Geology at University of Kansas    
 [Trooper Sanders](https://twitter.com/troopersanders?lang=en), CEO at Benefits Data Trust    
-Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
-[Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown
+Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)                                                                               [Chad Frischmann](https://www.drawdown.org/staff/chad-frischmann), VP & Research Director at Drawdown
 
 ## Program Committee
 
-Auroop Ganguly (Northeastern)
-Philippe Tissot (Texas A & M)
-Amy McGovern (University of Oklahoma)
-David Gagne (NCAR)
-Ashley Pilipszyn (Stanford and Open AI)
-David Meger (McGill)
-Karthik Kashinath (Berkeley Lab)
-Christiane Jablonowski (University of Michigan)
-Daniel Fuka (Virginia Tech)
-Julien Brajard (NERSC/Sorbonne University)
-Udit Bhatia (IIT Gandhinagar)
-Redouane Lguensat (CNES/Universite Grenoble Alpes)
-Victor Schmidt (Mila)
-Tom Beucler (UC Irvine)
-Aven-Satre Meloy (Oxford)
-Agnieszka Słowik (Cambridge)
+Auroop Ganguly (Northeastern); Philippe Tissot (Texas A & M); Amy McGovern (University of Oklahoma); David Gagne (NCAR)
+Ashley Pilipszyn (Stanford and Open AI); David Meger (McGill); Karthik Kashinath (Berkeley Lab); Christiane Jablonowski (University of Michigan); Daniel Fuka (Virginia Tech); Julien Brajard (NERSC/Sorbonne University); Udit Bhatia (IIT Gandhinagar); Redouane Lguensat (CNES/Universite Grenoble Alpes); Victor Schmidt (Mila); Tom Beucler (UC Irvine); Aven-Satre Meloy (Oxford); Agnieszka Słowik (Cambridge)
  
 ## Contact Us
 
