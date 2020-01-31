@@ -4,9 +4,13 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
-## !!Latest!! Submissions Due in Feb
-Paper/dataset track - 7th Feb & Abstracts-only track - 14th Feb: [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020)
- 
+## !!Latest!! 
+## Seeking Partnerships & Sponsors
+We are interested in hearing from philanthropies, companies, governments, entrepreneurs and volunteers interested in supporting AI for Earth Sciences workshop, attendees, datasets, competitions, related research and development activities.
+
+## Submissions Due in Feb 
+Paper/dataset track - 7th Feb & Abstracts-only track - 14th Feb [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020)
+
 ## Topics of Interest
 
 We call for papers demonstrating novel machine learning techniques in remote sensing for meteorology and geosciences, generative Earth system modeling, and transfer learning from geophysics and numerical simulations and uncertainty in Earth science learning representations. 
