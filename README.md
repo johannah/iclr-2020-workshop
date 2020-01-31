@@ -58,7 +58,7 @@ Paul D. Miller, aka [DJ Spooky](http://djspooky.com/)
 
 ## Program Committee
 
-Atalay Ayele (Addis Ababa University)
+Atalay Ayele (Addis Ababa University)  
 Auroop Ganguly (Northeastern)  
 Philippe Tissot (Texas A & M)  
 Amy McGovern (University of Oklahoma)  
