@@ -1,3 +1,5 @@
+## !!Latest!! Full-paper submissions due 7th Feb; abstract-only submissions due 14th Feb at https://cmt3.research.microsoft.com/AI4ESICLR2020
+
 ## AI for Earth Sciences
 
 Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
