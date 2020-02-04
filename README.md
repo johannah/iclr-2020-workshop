@@ -27,7 +27,7 @@ There are two tracks for workshop submission:
 
 2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
 
-Submissions may be made on Microsoft [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). If new to Microsoft CMT, register a username and password [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020) and submit to our workshop which is listed as AI4ESICLR2020. E-mail us at ai4earthscience[at]gmail[dot]com if you have any issues with the submission process. Post-acceptance, ICLR workshop registration is needed for attendance if you are not awarded a travel grant, but one need not register to attend the entire conference.  
+Submissions may be made on Microsoft [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). If new to Microsoft CMT, register a username and password at [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020) and submit to our workshop which is listed as AI4ESICLR2020. E-mail us at ai4earthscience[at]gmail[dot]com if you have issues with the submission process. Post-acceptance, ICLR workshop registration is needed for attendance if you are not awarded a travel grant, but one need not register to attend the entire conference.  
  
 ## Important Dates
 
