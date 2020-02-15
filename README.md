@@ -31,8 +31,8 @@ Submissions may be made on Microsoft [CMT](https://cmt3.research.microsoft.com/A
  
 ## Important Dates
 
-~~**21 Jan 2020** - ICLR Registration opens
-**14 Feb 2020** - Full Paper Extended Deadline
+~~**21 Jan 2020** - ICLR Registration opens  
+**14 Feb 2020** - Full Paper Extended Deadline  
 **14 Feb 2020** - Abstract-Only Deadline~~  
 (*Rolling evaluation period*)  
 **25 Feb 2020** - Acceptance Notifications   
