@@ -8,8 +8,8 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 **Seeking Partnerships & Sponsors**  
 We are interested in hearing from philanthropies, companies, governments, entrepreneurs and volunteers interested in supporting AI for Earth Sciences workshop, attendees, datasets, competitions, related research and development activities.
 
-**Submissions Due Soon**  
-Paper/dataset track & Abstracts-only track - 14th Feb [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020)
+**Submissions**  
+Rolling evaluation period begins. Priority submission deadline of papers to workshop is now closed. [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020)
 
 ## Topics of Interest
 
@@ -31,9 +31,10 @@ Submissions may be made on Microsoft [CMT](https://cmt3.research.microsoft.com/A
  
 ## Important Dates
 
-**21 Jan 2020** - ICLR Registration opens   
-**14 Feb 2020** - Full Paper Extended Deadline    
-**14 Feb 2020** - Abstract-Only Deadline     
+~~**21 Jan 2020** - ICLR Registration opens   ~~
+~~**14 Feb 2020** - Full Paper Extended Deadline    ~~
+~~**14 Feb 2020** - Abstract-Only Deadline     ~~
+    (*Rolling evaluation period*)  
 **25 Feb 2020** - Acceptance Notifications   
 **26 April 2020** - Workshop Date     
 
