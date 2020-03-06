@@ -5,11 +5,12 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
 ## !!Latest Updates!! 
+**Coronavirus**  
+We are taking the progression of the Coronavirus very seriously, and monitoring the situation. The workshop organising committee is planning for the probable eventuality of a virtual meeting, if the ICLR board cancels the physical meeting. We are investigating contingencies and collecting further information. We will share updates on the workshop website as soon as the ICLR board informs us. We apologise for the personal inconvenience this public health hazard is causing. 
+
 **Seeking Partnerships & Sponsors**  
 We are interested in hearing from philanthropies, companies, governments, entrepreneurs and volunteers interested in supporting AI for Earth Sciences workshop, attendees, datasets, competitions, related research and development activities.
 
-**Submissions**  
-Rolling evaluation period begins. Priority submission deadline of papers to workshop is now closed. [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020)
 
 ## Topics of Interest
 
