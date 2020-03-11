@@ -6,7 +6,7 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ## !!Latest Updates!! 
 **Coronavirus**  
-We are taking the progression of the Coronavirus very seriously, and monitoring the situation. The workshop organising committee is planning for the probable eventuality of a virtual meeting, if the ICLR board cancels the physical meeting. We are investigating contingencies and collecting further information. We will share updates on the workshop website as soon as the ICLR board informs us. We apologise for the personal inconvenience this public health hazard is causing. 
+Due to  concerns about COVID-19, #ICLR2020 will cancel its physical conference this year, and instead host a fully virtual conference. We will send details for workshops soon, but it is expected that these will follow a similar virtual format to the main conference. For further information, see https://iclr.cc/Conferences/2020/virtual
 
 **Seeking Partnerships & Sponsors**  
 We are interested in hearing from philanthropies, companies, governments, entrepreneurs and volunteers interested in supporting AI for Earth Sciences workshop, attendees, datasets, competitions, related research and development activities.
