@@ -6,11 +6,11 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 
 <!--## Schedule--> 
-| Time | Talk | Speaker | Description |
-| --- | --- | --- | --- | 
-| X:00 ||| Introduction and Opening Remarks |
-| X:00 | Invited | Zach Moshe (Google Research) | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/talks.md#ID00) |  
-| X:00 | Contributed | Hassan Kane  | [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Network](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html#ID01) | 
+<!--| Time | Talk | Speaker | Description |-->
+<!--| --- | --- | --- | --- | -->
+<!--| X:00 ||| Introduction and Opening Remarks |-->
+<!--| X:00 | Invited | Zach Moshe (Google Research) | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/talks.md#ID00) |-->  
+<!--| X:00 | Contributed | Hassan Kane  | [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Network](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html#ID01) |--> 
 
 ## Covid19
 **Coronavirus**  
