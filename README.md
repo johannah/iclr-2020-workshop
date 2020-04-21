@@ -5,14 +5,12 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
 
-<!--
-## Schedule 
+<!--## Schedule--> 
 | Time | Talk | Speaker | Description |
 | --- | --- | --- | --- | 
 | X:00 ||| Introduction and Opening Remarks |
 | X:00 | Invited | Zach Moshe (Google Research) | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/talks.md#ID00) |  
 | X:00 | Contributed | Hassan Kane  | [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Network](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html#ID01) | 
--->
 
 ## Covid19
 **Coronavirus**  
