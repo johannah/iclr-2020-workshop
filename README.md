@@ -4,45 +4,17 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
-## !!Latest Updates!! 
-**Coronavirus**  
-Due to  concerns about COVID-19, #ICLR2020 will cancel its physical conference this year, and instead host a fully virtual conference: [https://iclr.cc/Conferences/2020/virtual](https://iclr.cc/Conferences/2020/virtual) We will send specific details to accepted workshop participants soon, but it is expected that these will be quite similar to the virtual format of the main conference. 
-
-**Seeking Partnerships & Sponsors**  
-We are interested in hearing from philanthropies, companies, governments, entrepreneurs and volunteers interested in supporting AI for Earth Sciences workshop, attendees, datasets, competitions, related research and development activities.
-
-## Topics of Interest
-
-We call for papers demonstrating novel machine learning techniques in remote sensing for meteorology and geosciences, generative Earth system modeling, and transfer learning from geophysics and numerical simulations and uncertainty in Earth science learning representations. 
-
-We also seek theoretical developments in interpretable machine learning in meteorology and geoscientific models, hybrid models with Earth science knowledge guided machine learning, representation learning from graphs and manifolds in spatiotemporal models and dimensionality reduction in Earth sciences. 
-
-In addition, we seek Earth science applications from vision, robotics and reinforcement learning. New labelled Earth science datasets and visualizations with machine learning is also of particular interest.
-
-## Submission Instructions
-
-There are two tracks for workshop submission: 
-
-1) Full Paper submission: 3-6 pages excluding references and supplementary materials. Papers are encouraged to use [ICLR Format](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip). We also welcome dataset labeling papers submitted as a 3 page proposal as described in [AI4Earth](https://ai4edevshare.blob.core.windows.net/ai4emisc/Proposal%20Requirements.pdf)
-
-2) Abstract-Only submission: 300 word limit (AGU/EGU style abstract)
-
-Submissions may be made on Microsoft [CMT](https://cmt3.research.microsoft.com/AI4ESICLR2020). If new to Microsoft CMT, register a username and password at [https://cmt3.research.microsoft.com/AI4ESICLR2020](https://cmt3.research.microsoft.com/AI4ESICLR2020) and submit to our workshop which is listed as AI4ESICLR2020. E-mail us at ai4earthscience[at]gmail[dot]com if you have issues with the submission process. Post-acceptance, ICLR workshop registration is needed for attendance if you are not awarded a travel grant, but one need not register to attend the entire conference.  
- 
-## Important Dates
-
-~~**21 Jan 2020** - ICLR Registration opens  
-**14 Feb 2020** - Full Paper Extended Deadline  
-**14 Feb 2020** - Abstract-Only Deadline~~  
-(*Rolling evaluation period*)  
-**25 Feb 2020** - Acceptance Notifications   
-**26 April 2020** - Workshop Date     
-
-Deadlines are at 11:59 PST (California time) of date listed.
-
 ## Schedule
 
-This full day workshop will include keynotes, invited talks, regular talks, spotlight talks, selective remote talks for individuals with travel restrictions, and a panel discussion with a mix of keynote speakers and organisers with audience Q/A. Posters will be available throughout the day and in a dedicated viewing session. 
+| Time | Talk | Speaker | Description |
+| --- | --- | --- | --- |
+| X:00 ||| Introduction and Opening Remarks |
+| X:00 | Invited | [Zach Moshe (Google Research)] | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html#ID00) |  
+| X:00 | Contributed | Hassan Kane  | [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Network](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html#ID01) |  
+
+## Covid19
+**Coronavirus**  
+Due to  concerns about COVID-19, #ICLR2020 will cancel its physical conference this year, and instead host a fully virtual conference: [https://iclr.cc/Conferences/2020/virtual](https://iclr.cc/Conferences/2020/virtual) We will send specific details to accepted workshop participants soon, but it is expected that these will be quite similar to the virtual format of the main conference. 
 
 ## Organizing Committee
 
