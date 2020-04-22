@@ -14,7 +14,7 @@ PhD Candidate at CU Boulder
 Slack: @Kelly Kochanski
 
 
-<img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/jhansen.png" alt="jhansen" width="200"/>
+<img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/jhansen.png" alt="jhansen" width="100"/>
 Johanna Hansen
 PhD Candidate at McGill University  
 Slack: @johanna.hansen
