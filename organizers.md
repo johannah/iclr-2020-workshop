@@ -12,9 +12,7 @@ S. Karthik Mukkavilli
 Chair - AI for Earth Sciences  
 
 McGill, US DoE Labs, Mila  
-
 Slack: @mukkavis  
-
 Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)    
 
 ---
