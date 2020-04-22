@@ -77,16 +77,16 @@ All times are listed in Pacific Daylight Time (San Francisco, US).  More details
 | 13:00 | 13:15 | Invited | Stephen Rasp | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | 13:15 | 13:30 | Lightning | Seyed M Mousavi | [Dataset Labeling Paper: Ai-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | 13:30 | 13:55 | Invited | Edward W Obropta | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
-| 13:55 | 14:15 | Invited |  Ankush Khandelwal & Vipin Kumar | AquaNet |       
-| 14:15 | 14:25 | Extended Discussion | Vipin Kumar & S. Karthik Mukkavilli | EnviroNet |
+| 13:55 | 14:15 | Invited |  Ankush Khandelwal | AquaNet |       
+| 14:15 | 14:25 | Extended Discussion | [Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/) & S. Karthik Mukkavilli | EnviroNet |
 
 ### Keynotes & Discussion
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
-| 14:30 | 15:00 | Keynote | Daniel M. Kammen | Data Science for the Clean Energy Revolution | 
-| 14:30 | 15:00 | Discussion | Dan Kammen & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
-| 15:30 | 14:00 | Closing Keynote | DJ Spooky | Art, AI & Earth Science |     
+| 14:30 | 15:00 | Keynote | [Prof. Daniel M. Kammen, UC Berkeley](https://en.wikipedia.org/wiki/Daniel_Kammen) | Data Science for the Clean Energy Revolution | 
+| 14:30 | 15:00 | Discussion | Keynote & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
+| 15:30 | 14:00 | Closing Keynote | [Paul Miller aka DJ Spooky](https://en.wikipedia.org/wiki/DJ_Spooky) | Art, AI & Earth Science |     
 
 
 ## Organizing Committee
