@@ -31,8 +31,9 @@ All times are listed in Pacific Daylight Time (San Francisco).  More details abo
 | ---- | ---- | --------- | ---------------- | -------- |     
 | 8:07 | 8:30 | [Invited Talk](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04slides.pdf) | Zach Moshe | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf) |   
 | 8:30 | 8:42 | Lightning | Brian Cerrón | [Detection Of Housing And Agriculture Areas On Dry-riverbeds For The Evaluation Of Risk By Landslides Using Low-resolution Satellite Imagery Based On Deep Learning. Study Zone: Lima, Peru](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth13.pdf) |    
-| X | X | Invited Paper | Kelly Kochanski | [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf) |   
-| X | X | Paper             | Mearg B B Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
+| X | X | Invited | Kelly Kochanski | [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf) |   
+| X | X | Paper  | Mearg B B Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
+| 8:42 | 9:10 | Break | | |
 
 
 ### Solid Earth   
