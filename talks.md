@@ -10,19 +10,19 @@ Invited Talk: [Hydronets: Leveraging River Structure for Hydrolic Modeling](http
 Speaker: Zach Moshe   
 
 ###### ID01
-Invited Talk: [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Networks]   (http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth19.pdf)   
+Invited Talk: [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth19.pdf)   
 Speaker: Hassan Kane   
 
 ###### ID02
-Invited Talk: [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf)
+Invited Talk: [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf)  
 Speaker: Edward W Obropta
 
 ###### ID03
-Invited Talk: [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)
+Invited Talk: [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf)  
 Speaker: Kelly Kochanski
 
 ###### ID04
-Spotlight Talk: [Accurate Air Quality Prediction: A Physical-temporal Collection Model](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth09.pdf)
+Spotlight Talk: [Accurate Air Quality Prediction: A Physical-temporal Collection Model](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth09.pdf)  
 Speaker: Haolin Fei
 
 ###### ID05
