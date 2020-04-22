@@ -59,7 +59,6 @@ ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtu
 | 15:30 | 14:00 | Keynote | DJ Spooky | Art and Earth Science |  
 | ?? | ?? | Invited Paper | Edward W Obropta | Invited Talk: [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) |  
 
-
 ## Organizing Committee
 
 [S. Karthik Mukkavilli](https://mila.quebec/en/person/karthik-mukkavilli/), Postdoc at Mila   
