@@ -91,7 +91,7 @@ All times are listed in Pacific Daylight Time (San Francisco, US).  More details
 
 ## Organizing Committee
 
-[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair, AI for Earth Science (McGill, US DoE Labs, Mila)   
+[S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair - AI for Earth Science (McGill, US DoE Labs, Mila)   
 [Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Associate Professor at Mila and Université de Montréal  
 [Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate at CU Boulder  
 [Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University
