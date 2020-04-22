@@ -12,9 +12,8 @@ All times are listed in San Francisco time.
 
 ###Atmospheric Science    
 
-| Start | End | Type | Speaker | Title |    
-
-| ---- | ---- | --------- | ---------------- | -------- |     
+| Start | End  | Type      | Speaker          | Title    |   
+| ----- | ---- | --------- | ---------------- | -------- |     
 
 | 7:00 | 7:20 | Regular   | Amy McGovern | [Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf) |   
 
