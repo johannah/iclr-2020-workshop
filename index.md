@@ -10,7 +10,7 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
 ## Announcements!!
-Detailed schedule is now available. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. You are welcome to attend the entire workshop and interact with speakers. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Time on the 26th of April. 
+Detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Time on the 26th of April. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. 
 
 ## Schedule
 
