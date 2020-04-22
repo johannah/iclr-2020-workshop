@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## Virtual Conference
+
+[#rocket.chat](https://iclr.rocket.chat/channel/workshop_ai4earth)
+[zoom webinar TBA]()
+
 
 ## AI for Earth Sciences
 
@@ -10,7 +15,8 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
 ## Announcements!!
-Detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Time on the 26th of April. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. 
+
+Detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Time on the 26th of April. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. Please send us your ICLR rocket.chat handle if you would like it to be posted in the schedule. 
 
 ## Schedule
 
@@ -96,7 +102,7 @@ We've divided our workshop into several themed sections: [Atmospheric Science](#
 [S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair - AI for Earth Sciences (McGill, US DoE Labs, Mila)   
 [Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Associate Professor at Mila and Université de Montréal  
 [Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate at CU Boulder  
-[Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University
+[Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University (@jhansen on rocket.chat)
 
 ## Steering Committee
 
