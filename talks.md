@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Talks
+description: details on each talk
 ---
 
 ###### ID00
@@ -99,3 +101,4 @@ Speaker: DJ Spooky
 Dataset Lightning Talk: WeatherBench: A benchmark dataset for data-driven weather forecasting
 Speaker: Stephen Rasp
 
+[back](./)
