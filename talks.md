@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 ###### ID00
 ##### Invited Talk: [Hydronets: Leveraging River Structure for Hydrolic Modeling](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)
