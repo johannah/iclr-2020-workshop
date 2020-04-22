@@ -14,9 +14,9 @@ Detailed schedule is now available. In particular, please be present to answer a
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. Join us in the rocket.chat channel [#workshop_ai4earth](https://iclr.rocket.chat/channel/workshop_ai4earth) to mingle with workshop attendees outside of zoom. 
 
-All times are listed in Pacific Daylight Time (San Francisco, US).  More details about the talks may be found [here](./talks.html). 
+We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).  All times are listed in Pacific Daylight Time (San Francisco, US).  More details about the talks may be found [here](./talks.html). 
 
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
