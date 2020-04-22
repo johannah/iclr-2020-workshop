@@ -78,7 +78,7 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 | 13:15 | 13:30 | Lightning | Seyed M Mousavi | [Dataset Labeling Paper: Ai-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | 13:30 | 13:55 | Invited | Edward W Obropta | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
 | 13:55 | 14:15 | Invited |  Ankush Khandelwal & Vipin Kumar | AquaNet |       
-| 14:15 | 14:30 | Extended Discussion | Vipin Kumar & S. Karthik Mukkavilli | EnviroNet |
+| 14:15 | 14:25 | Extended Discussion | Vipin Kumar & S. Karthik Mukkavilli | EnviroNet |
 
 ### Keynotes & Discussion
 
