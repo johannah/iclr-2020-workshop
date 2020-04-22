@@ -15,7 +15,6 @@ ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtu
 
 All times are listed in Pacific Daylight Time (San Francisco, US).  More details about the talks may be found [here](./talks.html)
 
-### Opening
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
 | 7:00 | 7:03 | Welcome   | Organising Team |[AI for Earth Sciences](https://ai4earthscience.github.io/iclr-2020-workshop/) |
