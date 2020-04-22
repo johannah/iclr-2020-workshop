@@ -81,12 +81,13 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 | 14:00 | 14:30 | Break | | | 
 
 
-### Keynotes
+### Keynotes & Discussion
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
-| 14:30 | 15:30 | Keynote | Daniel M. Kammen | |   
-| 15:30 | 14:00 | Keynote | DJ Spooky | Art and Earth Science |     
+| 14:30 | 15:00 | Opening Keynote | Daniel M. Kammen | Data Science for the Clean Energy Revolution | 
+| 14:30 | 15:00 | Discussion | Daniel M. Kammen with AI for Earth Sciences Team | Energy, Resources & Earth System Synergies |
+| 15:30 | 14:00 | Closing Keynote | DJ Spooky | Art, AI and Earth Science |     
 
 
 ## Organizing Committee
