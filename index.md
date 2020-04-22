@@ -11,7 +11,7 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#    atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
 All times are listed in Pacific Daylight Time (US, California).  More details about the talks may be found [here](./talks.html)
 
