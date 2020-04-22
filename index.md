@@ -80,7 +80,7 @@ We've divided our workshop into several themed sections: [Atmospheric Science](#
 
 | Start | End | Type | Speaker | Title |   
 | --- | --- | --- | --- | --- |     
-| 11:30 | 12pm | Invited | Hassan Kane | [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth19.pdf) |    
+| 11:30 | 12pm | Invited | Ethan Weber & Hassan Kane | [Building Disaster Damage Assessment in Satellite Imagery with Multi-Temporal Fusion](https://arxiv.org/abs/2004.05525) |    
 | 12pm | 12:30 | [Spotlight](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10slides.pdf) | Maxim Neumann | [In-domain Representation Learning For Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10.pdf) |   
 
 
