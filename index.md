@@ -88,7 +88,7 @@ All times are listed in Pacific Daylight Time (San Francisco, US).  More details
 | ---- | ---- | --------- | ---------------- | -------- |     
 | 14:30 | 15:00 | Keynote | [Prof. Daniel M. Kammen, UC Berkeley](https://en.wikipedia.org/wiki/Daniel_Kammen) | Data Science for the Clean Energy Revolution | 
 | 14:30 | 15:00 | Discussion | Keynote & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
-| 15:30 | 14:00 | Closing Keynote | [Paul Miller aka DJ Spooky](https://en.wikipedia.org/wiki/DJ_Spooky) | Art, AI & Earth Sciences |     
+| 15:30 | 16:00 | Closing Keynote | [Paul Miller aka DJ Spooky](https://en.wikipedia.org/wiki/DJ_Spooky) | Art, AI & Earth Sciences |     
 
 
 ## Organizing Committee
