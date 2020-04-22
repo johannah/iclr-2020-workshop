@@ -27,9 +27,9 @@ All times are listed in San Francisco time.
 | 8:00 | 8:10 | Lightning | Adway Mitra | [A Probabilistic Graphical Model Approach To Identifying Spatial Changes In Monthly Precipitation Under Climate Change](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth11.pdf)  |    
 
 ### Hydro & Cryospheres   
-| Start | End | Type | Speaker | Title |   
 
-| ---- | ---- | --------- | ---------------- | -------- |     
+| Start | End  | Type      | Speaker          | Title    |   
+| ----- | ---- | --------- | ---------------- | -------- |     
 
 | 8:07 | 8:30 | [Invited Talk](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04slides.pdf) | Zach Moshe | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf) |   
 
