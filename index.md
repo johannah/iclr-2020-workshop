@@ -20,14 +20,12 @@ The detailed schedule is now available. In particular, please be present to answ
 
 ###### Chat
 
-[#rocket.chat](https://iclr.rocket.chat/channel/workshop_ai4earth)
-
-Organizer contact rocket.chat handles:  [@Karthik.Mukkavilli](https://iclr.rocket.chat/direct/Karthik.Mukkavilli), [@jhansen](https://iclr.rocket.chat/direct/jhansen)
+We decided to use slack for our a chat platform. Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
 
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. Join us in the rocket.chat channel [#workshop_ai4earth](https://iclr.rocket.chat/channel/workshop_ai4earth) to mingle with workshop attendees outside of zoom. 
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
 
 We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).  All times are listed in Pacific Daylight Time (San Francisco, US).  More details about the talks may be found [here](./talks.html). 
 
