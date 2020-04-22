@@ -74,7 +74,7 @@ All times are listed in San Francisco time.
 
 | Start | End | Type | Speaker | Title |   
 
-| ---- | ---- | --------- | ---------------- | -------- |     
+| --- | --- | --- | --- | --- |     
 
 | 11:30 | 12pm | Invited | Hassan Kane | [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth19.pdf) |    
 
