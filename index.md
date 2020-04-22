@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## AI for Earth Sciences
 
 Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
@@ -30,7 +35,7 @@ All times are listed in San Francisco time.
 |  | | Paper             | Mearg BB Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
 
 
-###Solid Earth   
+### Solid Earth   
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
@@ -40,7 +45,7 @@ All times are listed in San Francisco time.
 |  |  |Paper | Tue Boesen | [Semi-supervised Clustering For Oil Prospectivity](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth12.pdf) |   
 
 
-###Theoretical Advances  
+### Theoretical Advances  
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
@@ -50,7 +55,7 @@ All times are listed in San Francisco time.
 |  |  | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
 
 
-###Remote Sensing  
+### Remote Sensing  
 
 | Start | End | Type | Speaker | Title |   
 | --- | --- | --- | --- | --- |     
@@ -58,7 +63,7 @@ All times are listed in San Francisco time.
 | 12pm | 12:30 | [Spotlight](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10slides.pdf) | Maxim Neumann | [In-domain Representation Learning For Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10.pdf) |   
 
 
-###EnviroNet   
+### EnviroNet   
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
@@ -69,7 +74,7 @@ All times are listed in San Francisco time.
 | -- | -- | Invited Paper | Edward W Obropta | Invited Talk: [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) |    
 
 
-###Keynotes
+### Keynotes
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
