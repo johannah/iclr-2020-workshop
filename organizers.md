@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: AI4Earth Sciences Workshop Submissions
+description: details on each talk
+---
 
 S. Karthik Mukkavilli  
 Chair - AI for Earth Sciences 
