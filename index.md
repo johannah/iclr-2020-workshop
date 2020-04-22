@@ -6,7 +6,9 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. 
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#    atmospheric-science)
+
+All times are listed in San Francisco time. 
 
 ### Atmospheric Science    
 
