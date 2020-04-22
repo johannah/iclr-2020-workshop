@@ -2,12 +2,6 @@
 layout: default
 ---
 
-## Virtual Conference
-
-[#rocket.chat](https://iclr.rocket.chat/channel/workshop_ai4earth)
-[zoom webinar TBA]()
-
-
 ## AI for Earth Sciences
 
 Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
@@ -17,6 +11,13 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 ## Announcements!!
 
 Detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Time on the 26th of April. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. Please send us your ICLR rocket.chat handle if you would like it to be posted in the schedule. 
+
+### Virtual Conference 
+
+[#rocket.chat](https://iclr.rocket.chat/channel/workshop_ai4earth)
+
+[zoom webinar TBA]()
+
 
 ## Schedule
 
