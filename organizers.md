@@ -7,10 +7,14 @@ description: organizers
 ---
 
 <img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/karthik.jpg" alt="karthik" width="100"/>
-S. Karthik Mukkavilli  
+S. Karthik Mukkavilli      
+
 Chair - AI for Earth Sciences  
+
 McGill, US DoE Labs, Mila  
+
 Slack: @mukkavis  
+
 Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)    
 
 ---
