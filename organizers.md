@@ -1,10 +1,9 @@
 ---
 layout: default
 title: AI4Earth Sciences Workshop Organizers
-description: organizers
+description: org
 ---
 
----
 
 <img src="images/karthik.jpg" alt="karthik" width="100"/>
 
