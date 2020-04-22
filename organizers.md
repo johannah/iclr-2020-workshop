@@ -4,15 +4,21 @@ title: AI4Earth Sciences Workshop Submissions
 description: details on each talk
 ---
 
+---
+
 S. Karthik Mukkavilli  
 Chair - AI for Earth Sciences 
 McGill, US DoE Labs, Mila   
 Slack: @mukkavis 
+Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)
+
+---
 
 Kelly Kochanski
 PhD Candidate at CU Boulder
 Slack: @Kelly Kochanski
 
+---
 
 <img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/jhansen.png" alt="jhansen" width="100"/>
 Johanna Hansen
