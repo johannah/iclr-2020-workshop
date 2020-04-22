@@ -37,7 +37,7 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 | 8:10 | 8:25 | Invited | Kelly Kochanski | [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf) |
 | 8:25 | 8:48 | [Invited](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04slides.pdf) | Zach Moshe | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf) |   
 | 8:48 | 9:00 | Lightning | Brian Cerrón | [Detection Of Housing And Agriculture Areas On Dry-riverbeds For The Evaluation Of Risk By Landslides Using Low-resolution Satellite Imagery Based On Deep Learning. Study Zone: Lima, Peru](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth13.pdf) |    
-| X | X | Abstract  | Mearg B B Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
+| X | X | Abstract  | Mearg Belay B. Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
 | 8:42 | 9:10 | Break | | |
 
 ### Solid Earth   
