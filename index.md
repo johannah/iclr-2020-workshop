@@ -18,7 +18,7 @@ Zoom: Video Conferencing: [zoom webinar TBA]()
 
 Chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
 
-Calendar: Check out our [google calendar](https://calendar.google.com/calendar/b/2?cid=YWk0ZWFydGhzY2llbmNlQGdtYWlsLmNvbQ) to see events in your timezone. 
+Calendar: Check out our [google calendar](https://calendar.google.com/calendar/embed?src=ai4earthscience%40gmail.com&ctz=America%2FLos_Angeles) to see events in your timezone. 
 
 ## Schedule
 
