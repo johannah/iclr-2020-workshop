@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
+div style="text-align:center">
 <img src="images/ai4earthlogo.png" alt="logo" width="100"/>  
+</div>
 
 ## AI for Earth Sciences
 
