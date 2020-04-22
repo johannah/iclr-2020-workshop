@@ -13,13 +13,13 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#    atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
-All times are listed in Pacific Daylight Time (San Francisco).  More details about the talks may be found [here](./talks.html)
+All times are listed in Pacific Daylight Time (US, California).  More details about the talks may be found [here](./talks.html)
 
 ### Atmospheric Science    
 
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
-| 7:00 | 7:03 | Welcome   | S. Karthik Mukkavilli | [AI for Earth Sciences]() | 
+| 7:00 | 7:03 | Welcome   | S. Karthik Mukkavilli | AI for Earth Sciences | 
 | 7:03 | 7:20 | Invited   | Amy McGovern | [Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf) |   
 | 7:20 | 7:40 | Spotlight | Haolin Fei | [Accurate Air Quality Prediction: A Physical-temporal Collection Model](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth09.pdf) |   
 | 7:40 | 7:50 | Lightning | Jing Li | [A Random Forest Model For The Probability Of Large Wildfires In California](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth20.pdf) |   
