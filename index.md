@@ -30,7 +30,7 @@ All times are listed in Pacific Daylight Time (San Francisco, US).  More details
 | 7:20 | 7:40 | Spotlight | Haolin Fei | [Accurate Air Quality Prediction: A Physical-temporal Collection Model](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth09.pdf) |   
 | 7:40 | 7:50 | Lightning | Jing Li | [A Random Forest Model For The Probability Of Large Wildfires In California](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth20.pdf) |   
 | 7:50 | 8:00 | Lightning | Ashray Manepalli | [Generalization Properties Of Machine Learning Based Weather Model Downscaling](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth25.pdf) |   
-| 8:00 | 8:09 | Lightning | Adway Mitra | [A Probabilistic Graphical Model Approach To Identifying Spatial Changes In Monthly Precipitation Under Climate Change](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth11.pdf)  |    
+| 8:00 | 8:10 | Lightning | Adway Mitra | [A Probabilistic Graphical Model Approach To Identifying Spatial Changes In Monthly Precipitation Under Climate Change](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth11.pdf)  |    
 
 ### Hydro and Cryospheres   
 
@@ -60,7 +60,7 @@ All times are listed in Pacific Daylight Time (San Francisco, US).  More details
 | 10:30 | 10:55 | Spotlight | Arvind T Mohan | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
 | 10:55 | 11:15 | [Regular](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | Srija Chakraborty | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
 | X  | X | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
-| 11:15 | 11:30 | Afternoon Break | | | 
+| 11:15 | 11:30 | Noon Break | | | 
 
 
 ### Remote Sensing  
@@ -87,7 +87,7 @@ All times are listed in Pacific Daylight Time (San Francisco, US).  More details
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
 | 14:30 | 15:00 | Keynote | [Prof. Daniel M. Kammen, UC Berkeley](https://en.wikipedia.org/wiki/Daniel_Kammen) | Data Science for the Clean Energy Revolution | 
-| 14:30 | 15:00 | Discussion | Keynote & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
+| 15:00 | 15:30 | Discussion | Keynote & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
 | 15:30 | 16:00 | Closing Keynote | [Paul Miller aka DJ Spooky](https://en.wikipedia.org/wiki/DJ_Spooky) | Art, AI & Earth Sciences |     
 
 
