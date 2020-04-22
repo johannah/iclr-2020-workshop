@@ -13,9 +13,7 @@ All times are listed in San Francisco time.
 ### Atmospheric Science    
 
 | Start | End | Type | Speaker | Title |    
-
 | ---- | ---- | --------- | ---------------- | -------- |     
-
 | 7:00 | 7:20 | Regular   | Amy McGovern | [Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf) |   
 | 7:20 | 7:40 | Spotlight | Haolin Fei | [Accurate Air Quality Prediction: A Physical-temporal Collection Model](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth09.pdf) |   
 | 7:40 | 7:50 | Lightning | Jing Li | [A Random Forest Model For The Probability Of Large Wildfires In California](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth20.pdf) |   
@@ -49,9 +47,7 @@ All times are listed in San Francisco time.
 ###Theoretical Advances  
 
 | Start | End | Type | Speaker | Title |    
-
 | ---- | ---- | --------- | ---------------- | -------- |     
-
 | 10:00 | 10:30 | Spotlight | Arvind T Mohan | [Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf) |   
 
 | 10:30 | 10:55 | Spotlight | Arvind T Mohan | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
