@@ -73,12 +73,12 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 
 | Start | End | Type | Speaker | Title |    
 | ---- | ---- | --------- | ---------------- | -------- |     
-| 12:30 | 13:00 | Regular | Mayur Mudigonda | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
+| 12:30 | 13:00 | Invited | Mayur Mudigonda | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
 | 13:00 | 13:15 | Invited | Stephen Rasp | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | 13:15 | 13:30 | Lightning | Seyed M Mousavi | [Dataset Labeling Paper: Ai-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | 13:30 | 13:55 | Invited | Edward W Obropta | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
 | 13:55 | 14:15 | Invited |  Ankush Khandelwal & Vipin Kumar | AquaNet |       
-| 14:15 | 14:30 | Discussion | Vipin Kumar & S. Karthik Mukkavilli | EnviroNet |
+| 14:15 | 14:30 | Extended Discussion | Vipin Kumar & S. Karthik Mukkavilli | EnviroNet |
 
 ### Keynotes & Discussion
 
