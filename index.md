@@ -51,7 +51,7 @@ All times are listed in Pacific Daylight Time (San Francisco).  More details abo
 | ---- | ---- | --------- | ---------------- | -------- |     
 | 10:00 | 10:30 | Spotlight | Arvind T Mohan | [Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf) |   
 | 10:30 | 10:55 | Spotlight | Arvind T Mohan | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
-| 10:55 | 11:15 | Regular | [Srija Chakraborty](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
+| 10:55 | 11:15 | [Regular](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | Srija Chakraborty | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
 | X  | X | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
 | 11:15 | 11:30 | Coffee Break | | | 
 
