@@ -12,10 +12,15 @@ ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtu
 
 | Start | End | Type | Speaker | Title |    
 | --- | --- | --- | --- | ------ |     
+
 | 7:00 | 7:20 | Regular | Amy McGovern | [Using Machine Learning And Model Interpretation And Visualization Techniques To Gain Physical Insights In Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth16.pdf) |   
+
 | 7:20 | 7:40 | Spotlight | Haolin Fei | [Accurate Air Quality Prediction: A Physical-temporal Collection Model](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth09.pdf) |   
+
 | 7:40 | 7:50 | Lightning | Jing Li | [A Random Forest Model For The Probability Of Large Wildfires In California](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth20.pdf) |   
+
 | 7:50 | 8:00 | Lightning | Ashray Manepalli | [Generalization Properties Of Machine Learning Based Weather Model Downscaling](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth25.pdf) |   
+
 | 8:00 | 8:10 | Lightning | Adway Mitra | [A Probabilistic Graphical Model Approach To Identifying Spatial Changes In Monthly Precipitation Under Climate Change](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth11.pdf)  |    
 ### Hydro & Cryospheres   
 | Start | End | Type | Speaker | Title |   
