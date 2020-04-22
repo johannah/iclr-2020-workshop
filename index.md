@@ -9,11 +9,14 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
+## Announcements!!
+Detailed schedule is now available. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. You are welcome to attend the entire workshop and interact with speakers. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US PT on the 26th of April. 
+
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
-All times are listed in Pacific Daylight Time (San Francisco, US).  More details about the talks may be found [here](./talks.html)
+All times are listed in Pacific Daylight Time (San Francisco, US).  More details about the talks may be found [here](./talks.html). 
 
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
