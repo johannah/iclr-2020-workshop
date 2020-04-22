@@ -77,8 +77,7 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 | 13:00 | 13:15 | Invited | Stephen Rasp | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | 13:15 | 13:30 | Lightning | Seyed M Mousavi | [Dataset Labeling Paper: Ai-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | 13:30 | 14:00 | Invited | Edward W Obropta | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
-| 13:30 | 14:00 | Invited |  Ankush Khandelwal & Vipin Kumar | AquaNet |      
-| 14:00 | 14:30 | Break | | | 
+| 14:00 | 14:30 | Invited |  Ankush Khandelwal & Vipin Kumar | AquaNet |       
 
 
 ### Keynotes & Discussion
