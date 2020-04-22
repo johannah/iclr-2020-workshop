@@ -12,9 +12,7 @@ S. Karthik Mukkavilli
 Chair - AI for Earth Sciences
 
 McGill, US DoE Labs, Mila
-
 Slack: @mukkavis
-
 Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)
 
 ---
@@ -23,7 +21,6 @@ Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)
 Kelly Kochanski
 
 PhD Candidate at CU Boulder 
-
 Slack: @Kelly Kochanski
 
 
@@ -33,9 +30,7 @@ Slack: @Kelly Kochanski
 Johanna Hansen  
 
 PhD Candidate at McGill University
-
 Slack: @johanna.hansen
-
 Twitter: [@johanbanan](https://twitter.com/johanbanan)
 
 Web: [johanna.github.io](johannah.github.io)
@@ -45,7 +40,6 @@ Web: [johanna.github.io](johannah.github.io)
 Aaron Courville
 
 Associate Professor at Mila and Université de Montréal
-
 Web: [https://mila.quebec/en/person/aaron-courville/](https://mila.quebec/en/person/aaron-courville/)
 
 
