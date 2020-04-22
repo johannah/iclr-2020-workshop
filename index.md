@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<img src="images/ai4earthlogo.png" alt="logo" width="100"/>  
 
 ## AI for Earth Sciences
 
