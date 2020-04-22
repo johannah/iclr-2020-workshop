@@ -6,11 +6,11 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#    atmospheric-science)
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our livestream on April 26 are forthcoming. We've divided our workshop into several themed sections: [Atmospheric Science](#    atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
 All times are listed in San Francisco time. 
 
-### Atmospheric Science    
+###Atmospheric Science    
 
 | Start | End | Type | Speaker | Title |    
 
@@ -26,7 +26,7 @@ All times are listed in San Francisco time.
 
 | 8:00 | 8:10 | Lightning | Adway Mitra | [A Probabilistic Graphical Model Approach To Identifying Spatial Changes In Monthly Precipitation Under Climate Change](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth11.pdf)  |    
 
-### Hydro & Cryospheres   
+###Hydro and Cryospheres   
 
 | Start | End  | Type      | Speaker          | Title    |   
 | ----- | ---- | --------- | ---------------- | -------- |     
@@ -40,7 +40,7 @@ All times are listed in San Francisco time.
 |  | | Paper             | Mearg BB Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
 
 
-### Solid Earth   
+###Solid Earth   
 
 | Start | End | Type | Speaker | Title |    
 
@@ -55,7 +55,7 @@ All times are listed in San Francisco time.
 |  |  |Paper | Tue Boesen | [Semi-supervised Clustering For Oil Prospectivity](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth12.pdf) |   
 
 
-### Theoretical Advances  
+###Theoretical Advances  
 
 | Start | End | Type | Speaker | Title |    
 
@@ -70,7 +70,7 @@ All times are listed in San Francisco time.
 |  |  | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
 
 
-### Remote Sensing  
+###Remote Sensing  
 
 | Start | End | Type | Speaker | Title |   
 
@@ -81,7 +81,7 @@ All times are listed in San Francisco time.
 | 12pm | 12:30 | [Spotlight](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10slides.pdf) | Maxim Neumann | [In-domain Representation Learning For Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10.pdf) |   
 
 
-### EnviroNet   
+###EnviroNet   
 
 | Start | End | Type | Speaker | Title |    
 
@@ -99,7 +99,7 @@ All times are listed in San Francisco time.
 
 
 
-### Keynotes
+###Keynotes
 
 | Start | End | Type | Speaker | Title |    
 
