@@ -6,7 +6,7 @@ description: organizers
 
 ---
 
-<img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/karthik.jpg" alt="karthik" width="100"/>
+<img src="images/karthik.jpg" alt="karthik" width="100"/>
 S. Karthik Mukkavilli      
 
 Chair - AI for Earth Sciences  
@@ -16,7 +16,7 @@ Twitter: [@DrMukkavilli](https://twitter.com/DrMukkavilli)
 
 ---
 
-<img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/kelly.jpeg" alt="kelly" width="100"/>
+<img src="images/kelly.jpeg" alt="kelly" width="100"/>
 Kelly Kochanski   
 
 PhD Candidate at CU Boulder   
@@ -25,7 +25,7 @@ Slack: @Kelly Kochanski
 
 ---
 
-<img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/jhansen.png" alt="jhansen" width="100"/>
+<img src="images/jhansen.png" alt="jhansen" width="100"/>
 Johanna Hansen  
 
 PhD Candidate at McGill University  
@@ -34,7 +34,7 @@ Twitter: [@johanbanan](https://twitter.com/johanbanan)
 Web: [johanna.github.io](johannah.github.io)  
 
 ---
-<img src="https://github.com/ai4earthscience/iclr-2020-workshop/blob/master/images/aaron.jpg" alt="aaron" width="100"/>
+<img src="images/aaron.jpg" alt="aaron" width="100"/>
 Aaron Courville  
 
 Associate Professor at Mila and Université de Montréal  
