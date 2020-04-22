@@ -76,8 +76,8 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 | 12:30 | 13:00 | Regular | Mayur Mudigonda | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
 | 13:00 | 13:15 | Invited | Stephen Rasp | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | 13:15 | 13:30 | Lightning | Seyed M Mousavi | [Dataset Labeling Paper: Ai-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
-| 13:30 | 14:00 | Invited |  Ankush Khandelwal | [AquaNet](https://www.linkedin.com/in/ankush-khandelwal/) |   
-| X | X | Invited Paper | Edward W Obropta | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) |    
+| 13:30 | 14:00 | Invited | Edward W Obropta | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
+| 13:30 | 14:00 | Invited |  Ankush Khandelwal & Vipin Kumar | AquaNet |      
 | 14:00 | 14:30 | Break | | | 
 
 
