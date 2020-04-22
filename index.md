@@ -18,7 +18,7 @@ All times are listed in Pacific Daylight Time (US, California).  More details ab
 ### Opening
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
-| 7:00 | 7:03 | Welcome   | S. Karthik Mukkavilli |AI for Earth Sciences](https://ai4earthscience.github.io/iclr-2020-workshop/) |
+| 7:00 | 7:03 | Welcome   | S. Karthik Mukkavilli |[AI for Earth Sciences](https://ai4earthscience.github.io/iclr-2020-workshop/) |
 
 ### Atmospheric Science    
 
