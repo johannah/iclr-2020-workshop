@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Talks
+title: AI4Earth Sciences Workshop Submissions
 description: details on each talk
 ---
 
