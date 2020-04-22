@@ -16,7 +16,7 @@ The detailed schedule is now available. In particular, please be present to answ
 
 Zoom: Video Conferencing: [zoom webinar TBA]()
 
-Chat: We decided to use slack for our a chat platform. Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
+Chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
 
 
 ## Schedule
