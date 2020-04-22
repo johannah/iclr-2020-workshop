@@ -9,7 +9,7 @@ description: committee
 [S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair - AI for Earth Sciences (McGill, US DoE Labs, Mila)   
 [Aaron Courville](https://mila.quebec/en/person/aaron-courville/), Associate Professor at Mila and Université de Montréal  
 [Kelly Kochanski](https://www.kochanski.org/kelly/), PhD Candidate at CU Boulder  
-[Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University (@jhansen on rocket.chat)
+[Johanna Hansen](https://johannah.github.io/), PhD Candidate at McGill University 
 
 ## Steering Committee
 
