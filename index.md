@@ -16,9 +16,21 @@ The detailed schedule is now available. In particular, please be present to answ
 
 Zoom: Video conferencing link to [join our AI for Earth Science workshop webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A) officially starting on 26th April at 7am US Pacific Daylight Time (San Francisco, California) or GMT-7
 
-Chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
+High quality post-record and production streaming: Check [ICLR website](https://iclr.cc/) on the 26th of April  
+
+Asynchronous viewing and interaction with other workshops/main conference: Check [ICLR website](https://iclr.cc/) on the 26th of April  
+
+Workshop chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
+
+ICLR asynchronous chat: available via ICLR Rocket.chat
 
 Calendar: Check out our [google calendar](https://calendar.google.com/calendar/embed?src=ai4earthscience%40gmail.com&ctz=America%2FLos_Angeles) to see the events converted to your timezone. 
+
+## Registration 
+
+Workshop sessions will take place via a combination of Zoom webinar conferencing and also a high quality stream on ICLR website. One can see the workshop recordings and Zoom engagement with speakers/panelists in high quality with a 40s delay in the stream mode through the ICLR website. Participating in **several aspects of the workshop are free**. You will be able to view a livestream of talks on April 26th, and participate via Zoom in the workshop. 
+
+However, some aspects of the program linked with ICLR's chat platforms and *interactive virtual conference website for asynchronous participation, will only be available to those who register with ICLR*. We will use ICLR's platforms to take questions for speakers, make workshop content available for asynchronous viewing and to help workshop participants meet and engage with each other. Registration will give you access to all content from the main ICLR conference and all workshops for all four days; see the ICLR website for more details: https://iclr.cc/Register/view-registration and [subsidised pricing this year](https://iclr.cc/Conferences/2020/Pricing2).
 
 ## Schedule
 
