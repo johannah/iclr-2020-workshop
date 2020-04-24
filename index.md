@@ -14,7 +14,7 @@ The detailed schedule is now available. In particular, please be present to answ
 
 ### Virtual Conference Details
 
-Zoom: Video conferencing link to [join our AI for Earth Science workshop webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A) oficially starting on 26th April at 7am US Pacific Daylight Time (San Francisco, California) or GMT-7
+Zoom: Video conferencing link to [join our AI for Earth Science workshop webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A) officially starting on 26th April at 7am US Pacific Daylight Time (San Francisco, California) or GMT-7
 
 Chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
 
