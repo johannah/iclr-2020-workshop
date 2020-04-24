@@ -14,7 +14,7 @@ The detailed schedule is now available. In particular, please be present to answ
 
 ### Virtual Conference Details
 
-Zoom: Video Conferencing link to [join our AI for Earth Science webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A)
+Zoom: Video conferencing link to [join our AI for Earth Science webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A)
 
 Chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
 
