@@ -10,11 +10,11 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ## Announcements!!
 
-The detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Time on the 26th of April at our webinar. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. Please send us your ICLR rocket.chat handle if you would like it to be posted in the schedule. 
+The detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Daylight Time on the 26th of April at our webinar. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. Please send us your ICLR rocket.chat handle if you would like it to be posted in the schedule. 
 
 ### Virtual Conference Details
 
-Zoom: Video conferencing link to [join our AI for Earth Science webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A)
+Zoom: Video conferencing link to [join our AI for Earth Science workshop webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A) starting on 26th April at 7am US Pacific Daylight Time (San Francisco, California) or GMT-7
 
 Chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
 
