@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## [Join our live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
+
+## [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+
 ## AI for Earth Sciences
 
 Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
@@ -12,15 +16,13 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual).  Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) on April 26 from 7am-4pm PDT (San Francisco) time. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
 
-We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).  All times are listed in Pacific Daylight Time (San Francisco, US). The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title.
+We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).   The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title.
 
+All times are listed in Pacific Daylight Time (San Francisco, USA).
 
-### [Speakers](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
-
-[Check this link for the most up-to-date info for speakers](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) 
-
+## [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
 ### Attendees  
 
