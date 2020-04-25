@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI4Earth
+title: AI for Earth Sciences
 ---
 
 # *[Click here](https://ai4earthscience.github.io/iclr-2020-workshop/participating.html) to learn how to virtually particpate in the workshop on the 26th of April, 2020 from 7am-4pm PDT*
