@@ -4,6 +4,8 @@ title: AI4Earth Sciences Workshop Committee
 description: committee
 ---
 
+# AI4Earth
+
 ## Organizing Committee
 
 [S. Karthik Mukkavilli](https://www.linkedin.com/in/karthikmukkavilli/), Chair - AI for Earth Sciences (McGill, US DoE Labs, Mila)   
