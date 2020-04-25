@@ -3,7 +3,7 @@ layout: default
 title: AI for Earth Sciences
 ---
 
-# *Speakers and Invited Guests should [Click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) important zoom and scheduling details*. *Zoom attendees must completely close the ICLR stream before joining the zoom conference (seriously - you will regret it if you don't)*
+# *Speakers and Invited Guests should [Click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) important zoom and scheduling details*. 
 ---
 ## *[Click here](https://ai4earthscience.github.io/iclr-2020-workshop/participating.html) to learn how to virtually particpate in the workshop on the 26th of April, 2020 from 7am-4pm PDT*
 ---
@@ -16,6 +16,8 @@ Our workshop brings together earth scientists and machine learning experts to tr
 Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) on April 26 from 7am-4pm PDT (San Francisco) time to see the talks. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees. 
 
 The duration shown in the schedule is approximate time allocated for introduction, video recording, and Q&A for each topic.
+
+*Zoom attendees must completely close the ICLR stream before joining the zoom conference (seriously - you will regret it if you don't)*
 
 All times are listed in Pacific Daylight Time (San Francisco, USA).
 
