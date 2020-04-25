@@ -8,6 +8,7 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
+---
 
 ### Virtual Conference Details
 
@@ -28,8 +29,9 @@ Each talk will proceed as follows:
 Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
 
 Start times in in PDT for each session are:  
+
 | Time | Session | Session Chair |  
-| --- |  --- | --- |  
+| --- | --- | --- |  
 | 7:00 | [Atmospheric Science](#atmospheric-science) | Kelly | 
 | 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |  
 | 9:10 | [Solid Earth](#solid-earth) | Kelly |   
@@ -38,6 +40,7 @@ Start times in in PDT for each session are:
 | 12:30  [EnviroNet](#environet) | Karthik | 
 | 14:30 | [Keynotes](#keynotes) | Karthik |  
 
+---
 
 ##### Zoom recommendations:   
 
