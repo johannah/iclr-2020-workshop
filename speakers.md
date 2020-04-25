@@ -6,7 +6,9 @@ layout: default
 
 Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
 
-Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
+# Connecting to the Conference Call  
+
+Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email (search "AI for Earch Sciences" in your inbox) which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
 
 ## Session Flow:  
 
