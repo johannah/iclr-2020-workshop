@@ -1,8 +1,10 @@
 ---
 layout: default
-title: AI4Earth Sciences Workshop Submissions
+title: #AI4Earth
 description: details on each talk
 ---
+
+# AI4Earth Sciences Workshop Submissions
 
 ###### ID00
 Invited Talk: [Hydronets: Leveraging River Structure for Hydrolic Modeling](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf)   
