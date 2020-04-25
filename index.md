@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Our virtual conference streams from 7am-4pm PDT on April 26th, 2020.  
+## AI4Earth
 
-## ZOOM INFO: FOR [SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+### Our virtual conference streams from 7am-4pm PDT on April 26th, 2020.  
 
-## ICLR attendees and the general public may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences)  from 7am-4pm PDT on April 26th, 2020. A link to individual recordings will be available soon.  
+### ZOOM INFO: FOR [SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
-## AI for Earth Sciences
+### ICLR attendees and the general public may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences)  from 7am-4pm PDT on April 26th, 2020. A link to individual recordings will be available soon.  
+
+# Topics of Interest
 
 Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
 
