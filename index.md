@@ -3,10 +3,10 @@ layout: default
 title: AI for Earth Sciences
 ---
 
+# *Speakers and Invited Guests should [Click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) important zoom and scheduling details*. *Zoom attendees must completely close the ICLR stream before joining the zoom conference (seriously - you will regret it if you don't)*
+---
 ## *[Click here](https://ai4earthscience.github.io/iclr-2020-workshop/participating.html) to learn how to virtually particpate in the workshop on the 26th of April, 2020 from 7am-4pm PDT*
-
-## *Speakers and Invited Guests should [Click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) important zoom and scheduling details*
-
+---
 ## ICLR2020 AI4Earth Workshop  
 
 Our workshop brings together earth scientists and machine learning experts to try to solve some of the earth's greatest problems.  We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
