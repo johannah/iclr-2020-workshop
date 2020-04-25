@@ -3,17 +3,15 @@ layout: default
 title: AI4Earth
 ---
 
-# [Click here to learn how to particpate in the workshop on the 26th of April, 2020 from 7am-4pm PDT](http://ai4earthscience.github.io/iclr-2020-workshop/particpating.html)
+Our workshop brings together top earth scientists and machine learning experts to try to solve some of the earth's greatest problems.  We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
-Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
-
-
+# *[Click here](http://ai4earthscience.github.io/iclr-2020-workshop/participating.html) to learn how to virtually particpate in the workshop on the 26th of April, 2020 from 7am-4pm PDT*
 
 ## Schedule
 
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual).  Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) on April 26 from 7am-4pm PDT (San Francisco) time. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
+Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) on April 26 from 7am-4pm PDT (San Francisco) time to see the talks. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees. 
 
-We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).   The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title.
+The duration shown in the schedule is approximate time allocated for introduction, video recording, and Q&A for each topic.
 
 All times are listed in Pacific Daylight Time (San Francisco, USA).
 
