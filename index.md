@@ -3,27 +3,10 @@ layout: default
 title: AI4Earth
 ---
 
-# Participating
+# [Click here to learn how to particpate in the workshop on the 26th of April, 2020 from 7am-4pm PDT](http://ai4earthscience.github.io/iclr-2020-workshop/particpating.html)
 
-Thank you for your interest in the #ai4earth workshop at ICLR! You may participate in the workshop by watching the official [livestream](https://slideslive.com/38926826/ai-for-earth-sciences), reading our accepted [papers](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html), and asking questions to our speakers via [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). 
-Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.  
+Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
-### Our virtual conference streams from 7am-4pm PDT on April 26th, 2020.  
-
-Due to technical limitations, this workshop will have two tiers of attendees: general attendees and invited guests. 
-
-### ICLR attendees and the general public:
-
-Most folks joining us from ICLR are considered "general attendees" and will watch via the slideslive [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020. General attendees will ask be able to ask questions of speakers via rocket.chat or our [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) channel #asktheauthor. Questions collected in these chat channels will be asked by session moderators over zoom during the Q&A period after each pre-recorded talk is streamed. Links to individual recordings will be available soon.  
-
-### [SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
-[Workshop speakers and a limited number of invited panelists](https://github.com/ai4earthscience/iclr-2020-workshop/edit/master/speakers.html) should have received an email in the days preceding the workshop inviting them to a private zoom conference room. These folks are encouraged to ask questions of the speakers live during Q&A sessions by "raising" their hands. Please thoroughly read additional details [here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
-
-For questions, message us on #asktheorganizers on [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). 
-
-
-
----
 
 
 ## Schedule
@@ -106,11 +89,6 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | 15:00 | 15:30 | Discussion | Keynote & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
 | 15:30 | 16:00 | Closing Keynote | [Paul Miller aka DJ Spooky](https://en.wikipedia.org/wiki/DJ_Spooky) | Art, AI & Earth Sciences |     
  
-# Topics of Interest
-
-Earth sciences or geosciences encompasses understanding the physical characteristics of our planet, including its lithosphere, hydrosphere, atmosphere and biosphere, applying all fields of natural and computational sciences. As Earth sciences enters the era of increasing volumes and variety of geo-scientific data from sensors, as well as high performance computing simulations, machine learning methods are poised to augment and in some cases replace traditional methods. Interest in the application of machine learning, deep learning, reinforcement learning, computer vision and robotics to the geosciences is growing rapidly at major Earth science and machine learning conferences.
-
-Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
  
 ## Contact Us
 
