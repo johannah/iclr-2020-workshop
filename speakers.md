@@ -40,9 +40,9 @@ Start times in in PDT for each session are:
 
 ---
 
-## Zoom recommendations:   
+## Important Zoom Details:   
 
-- It is imperative that you close the ICLR livestream before joining the zoom call. Feedback from the audio can really disrupt the system. Muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted. 
+- *It is imperative that you close the ICLR livestream before joining the zoom call!* Feedback from the audio can really disrupt the system. Muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted. 
 - Please use headphones and a dedicated microphone to minimize unexpected noise. 
 - Your microphone will be automatically muted when you join the zoom session. After your talk has been streamed, we will open your microphone for a Q/A session. 
 -  Slideslive recommends changing the preferences in zoom so that you stream "HD" video. 
