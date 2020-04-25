@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Participating
+title: Participating in #ai4earth
 ---
 
 Thank you for your interest in the #ai4earth workshop at ICLR! You may participate in the workshop by watching the official [livestream](https://slideslive.com/38926826/ai-for-earth-sciences), reading our accepted [papers](https://ai4earthscience.github.io/iclr-2020-workshop/talks.html), and asking questions to our speakers via [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). 
