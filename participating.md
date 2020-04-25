@@ -17,9 +17,11 @@ Most folks joining us from ICLR will join the [livestream](https://slideslive.co
 
 Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.  
 
-### [Speakers and Invited Guests]
+### Speakers and Invited Guests
 
-[Workshop speakers and invited panelists](https://github.com/ai4earthscience/iclr-2020-workshop/edit/master/speakers.html) should have received an email in the days preceding the workshop inviting them to a private zoom conference room. These folks are encouraged to join the zoom meeting and ask questions of the speakers live during Q&A sessions by "raising" their hands. Please thoroughly read additional details [here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html). 
+Workshop speakers and invited panelists should have received an email in the days preceding the workshop inviting them to a private zoom conference room. These folks are encouraged to join the zoom meeting and ask questions of the speakers live during Q&A sessions by "raising" their hands. 
+
+*Please thoroughly read additional details [here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html). *
 
 *Zoom attendees must completely close the livestream before joining the zoom conference (seriously - you will regret it if you don't)*
 
