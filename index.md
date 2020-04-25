@@ -8,13 +8,43 @@ Earth sciences or geosciences encompasses understanding the physical characteris
 
 Our workshop seeks to bring cutting edge geoscientific and planetary challenges to the fore for the machine learning and deep learning communities. We seek machine learning interest from major areas encompassed by Earth sciences which include, atmospheric physics, hydrologic sciences, cryosphere science, oceanography, geology, planetary sciences, space weather, geo-health (i.e. water, land and air pollution), volcanism, seismology and biogeosciences. 
 
-## Announcements!!
-
-The detailed schedule is now available. In particular, please be present to answer and discuss your (pre-recorded slideslive) presentation during your time slot checking the schedule below, between 7am-4pm US Pacific Daylight Time on the 26th of April at our webinar. You are welcome to attend the entire workshop and interact with speakers. Talks will be streamed from the pre-recordings sent and discussed as per the schedule below. Please send us your ICLR rocket.chat handle if you would like it to be posted in the schedule. 
 
 ### Virtual Conference Details
 
-Zoom: Video conferencing link to [join our AI for Earth Science workshop webinar](https://us02web.zoom.us/webinar/register/WN_cO7BY85NRK2uHaibSQw52A) officially starting on 26th April at 7am US Pacific Daylight Time (San Francisco, California) or GMT-7
+#### SPEAKERS:
+
+Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
+
+Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
+
+###### Session Flow:  
+
+Each talk will proceed as follows:  
+
+- Introduction of the talk by the session chair
+- Video streaming of your pre-recorded talk through slideslive   
+- A Q/A session with you. At this point, we will un-mute your audio on zoom. Most of the questions will be sourced from the audience through our rocket.chat and slack channels. The questions will be filtered and read by the session chair. Questions may also be sourced directly through "raised hands" in zoom from other speakers in your session.  
+
+Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
+
+Start times in in PDT for each session are:  
+| Time | Session | Session Chair |  
+| --- |  --- | --- |  
+| 7:00 | [Atmospheric Science](#atmospheric-science) | Kelly | 
+| 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |  
+| 9:10 | [Solid Earth](#solid-earth) | Kelly |   
+| 10:00 | [Theoretical Advances](#theoretical-advances) | Johanna |   
+| 11:30 | [Remote Sensing](#remote-sensing) | Johanna |  
+| 12:30  [EnviroNet](#environet) | Karthik | 
+| 14:30 | [Keynotes](#keynotes) | Karthik |  
+
+
+##### Zoom recommendations:   
+
+- It is imperative that you close the ICLR livestream before joining the zoom call. Feedback from the audio can really disrupt the system (muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted). 
+- Please use headphones and a dedicated microphone to minimize unexpected noise.   
+- Your microphone will be automatically muted when you join the zoom session. After your talk has been streamed, we will open your microphone for a Q/A session. 
+-  Slideslive recommends changing the preferences in zoom so that you stream "HD" video. 
 
 High quality post-record and production streaming: Check [ICLR website](https://iclr.cc/) on the 26th of April  
 
