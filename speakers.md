@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # AI4Earth
 
 # INFO FOR SPEAKERS:
