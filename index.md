@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
-## ZOOM INFO FOR [SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
-## General ICLR attendees may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
+## Our virtual conference streams from 7am-4pm PDT on April 26th, 2020.  
+
+## ZOOM INFO: FOR [SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+
+## ICLR attendees and the general public may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences)  from 7am-4pm PDT on April 26th, 2020. A link to individual recordings will be available soon.  
 
 ## AI for Earth Sciences
 
@@ -21,7 +24,9 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 Thank you for your interest in the ai4earth workshop at ICLR. You may participate in the workshop by watching the official livestream, reading our accepted papers, and asking questions to our speakers via [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). Session moderators will direct questions to each speaker via zoom after their pre-recorded video has streamed.  For in-depth discussion, we encourage you to contact the authors on slack.   
 
-Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.
+Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.  
+
+If you received a link to a private zoom meeting, please see 
 
 ---
 
