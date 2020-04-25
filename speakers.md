@@ -11,7 +11,7 @@ Thanks so much for contributing to this workshop. Although the format isn't at a
 
 ## Connecting to the Zoom Conference Call  
 
-Speakers are asked to join our private zoom conference before the beginning of their sessions. Each speaker should have received a link via email (search "AI for Earch Sciences" or "zoom" in your inbox) which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link.  
+Speakers are asked to join our private zoom conference before the beginning of their sessions. Each speaker should have received a link via email (search "AI for Earth Sciences" or "zoom" in your inbox) which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link.  
 
 *Zoom attendees must completely close the ICLR stream before joining the zoom conference (seriously - you will regret it if you don't)*
 
