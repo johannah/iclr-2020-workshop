@@ -10,70 +10,28 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ---
 
-### Virtual Conference Details
-
-#### SPEAKERS:
-
-Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
-
-Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
-
-###### Session Flow:  
-
-Each talk will proceed as follows:  
-
-- Introduction of the talk by the session chair
-- Video streaming of your pre-recorded talk through slideslive   
-- A Q/A session with you. At this point, we will un-mute your audio on zoom. Most of the questions will be sourced from the audience through our rocket.chat and slack channels. The questions will be filtered and read by the session chair. Questions may also be sourced directly through "raised hands" in zoom from other speakers in your session.  
-
-Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
-
-Start times in in PDT for each session are:  
-
-| Time | Session | Session Chair |  
-| --- | --- | --- |  
-| 7:00 | [Atmospheric Science](#atmospheric-science) | Kelly |   
-| 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |   
-| 9:10 | [Solid Earth](#solid-earth) | Kelly |   
-| 10:00 | [Theoretical Advances](#theoretical-advances) | Johanna |   
-| 11:30 | [Remote Sensing](#remote-sensing) | Johanna |    
-| 12:30  [EnviroNet](#environet) | Karthik |   
-| 14:30 | [Keynotes](#keynotes) | Karthik |  
-
----
-
-##### Zoom recommendations:   
-
-- It is imperative that you close the ICLR livestream before joining the zoom call. Feedback from the audio can really disrupt the system (muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted). 
-- Please use headphones and a dedicated microphone to minimize unexpected noise.   
-- Your microphone will be automatically muted when you join the zoom session. After your talk has been streamed, we will open your microphone for a Q/A session. 
--  Slideslive recommends changing the preferences in zoom so that you stream "HD" video. 
-
-High quality post-record and production streaming: Check [ICLR website](https://iclr.cc/) on the 26th of April  
-
-Asynchronous viewing and interaction with other workshops/main conference: Check [ICLR website](https://iclr.cc/) on the 26th of April  
-
-Workshop chat: Please [join our slack group](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ)!
-
-ICLR asynchronous chat: available via ICLR Rocket.chat
-
-Calendar: Check out our [google calendar](https://calendar.google.com/calendar/embed?src=ai4earthscience%40gmail.com&ctz=America%2FLos_Angeles) to see the events converted to your timezone. 
-
-## Registration 
-
-Workshop sessions will take place via a combination of Zoom webinar conferencing and also a high quality stream on ICLR website. One can see the workshop recordings and Zoom engagement with speakers/panelists in high quality with a 40s delay in the stream mode through the ICLR website. Participating in **several aspects of the workshop are free**. You will be able to view a livestream of talks on April 26th, and participate via Zoom in the workshop. 
-
-However, some aspects of the program linked with ICLR's chat platforms and *interactive virtual conference website for asynchronous participation, will only be available to those who register with ICLR*. We will use ICLR's platforms to take questions for speakers, make workshop content available for asynchronous viewing and to help workshop participants meet and engage with each other. Registration will give you access to all content from the main ICLR conference and all workshops for all four days; see the ICLR website for more details: https://iclr.cc/Register/view-registration and [subsidised pricing this year](https://iclr.cc/Conferences/2020/Pricing2).
-
 ## Schedule
 
 ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual). Details about how to tune into our zoom livestream on April 26 (7am-4pm, US Pacific Time) are forthcoming. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
 
-We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).  All times are listed in Pacific Daylight Time (San Francisco, US). The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title. More details about the talks may be found [here](./talks.html). 
+We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).  All times are listed in Pacific Daylight Time (San Francisco, US). The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title.
+
+
+### [Speakers](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+
+[Check this link for the most up-to-date info for speakers](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) 
+
+
+### Attendees  
+
+Thank you for your interest in the ai4earth workshop at ICLR. You may participate in the workshop by watching the official livestream, reading our accepted papers, and asking questions to our speakers via [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). Session moderators will direct questions to each speaker via zoom after their pre-recorded video has streamed.  For in-depth discussion, we encourage you to contact the authors on slack.   
+
+Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.
+
 
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
-| 7:00 | 7:03 | Welcome   | Organising Team |[AI for Earth Sciences](https://ai4earthscience.github.io/iclr-2020-workshop/) |
+| 7:00 | 7:03 | Welcome   | Organising Team |[AI for Earth Sciences](https://ai4earthscience.github.io/iclr-2020-workshop/organizers.html) |
 
 ### Atmospheric Science    
 
