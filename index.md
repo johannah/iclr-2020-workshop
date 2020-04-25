@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [ZOOM INFO FOR SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+## ZOOM INFO FOR [SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
 ## General ICLR attendees may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
 
