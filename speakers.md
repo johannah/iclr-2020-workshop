@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## INFO FOR SPEAKERS:
+# INFO FOR SPEAKERS:
 
 Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
 
 Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
 
-### Session Flow:  
+## Session Flow:  
 
 Each talk will proceed as follows:  
 
@@ -27,12 +27,12 @@ Start times in in PDT for each session are:
 | 9:10 | [Solid Earth](http://ai4earthscience.github.io/iclr-2020-workshop/#solid-earth) | Kelly |   
 | 10:00 | [Theoretical Advances](http://ai4earthscience.github.io/iclr-2020-workshop/#theoretical-advances) | Johanna |   
 | 11:30 | [Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/#remote-sensing) | Johanna |    
-| 12:30  [EnviroNet](http://ai4earthscience.github.io/iclr-2020-workshop/#environet) | Karthik |   
+| 12:30 | [EnviroNet](http://ai4earthscience.github.io/iclr-2020-workshop/#environet) | Karthik |   
 | 14:30 | [Keynotes](http://ai4earthscience.github.io/iclr-2020-workshop/#keynotes) | Karthik |  
 
 ---
 
-### Zoom recommendations:   
+## Zoom recommendations:   
 
 - It is imperative that you close the ICLR livestream before joining the zoom call. Feedback from the audio can really disrupt the system (muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted). 
 - Please use headphones and a dedicated microphone to minimize unexpected noise.   
