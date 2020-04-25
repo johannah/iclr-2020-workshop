@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+### Virtual Conference Details
+
+#### SPEAKERS:
+
+Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
+
+Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
+
+###### Session Flow:  
+
+Each talk will proceed as follows:  
+
+- Introduction of the talk by the session chair
+- Video streaming of your pre-recorded talk through slideslive   
+- A Q/A session with you. At this point, we will un-mute your audio on zoom. Most of the questions will be sourced from the audience through our rocket.chat and slack channels. The questions will be filtered and read by the session chair. Questions may also be sourced directly through "raised hands" in zoom from other speakers in your session.  
+
+Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
+
+Start times in in PDT for each session are:  
+
+| Time | Session | Session Chair |  
+| --- | --- | --- |  
+| 7:00 | [Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/index.md#atmospheric-science) | Kelly |   
+| 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |   
+| 9:10 | [Solid Earth](#solid-earth) | Kelly |   
+| 10:00 | [Theoretical Advances](#theoretical-advances) | Johanna |   
+| 11:30 | [Remote Sensing](#remote-sensing) | Johanna |    
+| 12:30  [EnviroNet](#environet) | Karthik |   
+| 14:30 | [Keynotes](#keynotes) | Karthik |  
+
+---
+
+##### Zoom recommendations:   
+
+- It is imperative that you close the ICLR livestream before joining the zoom call. Feedback from the audio can really disrupt the system (muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted). 
+- Please use headphones and a dedicated microphone to minimize unexpected noise.   
+- Your microphone will be automatically muted when you join the zoom session. After your talk has been streamed, we will open your microphone for a Q/A session. 
+-  Slideslive recommends changing the preferences in zoom so that you stream "HD" video. 
