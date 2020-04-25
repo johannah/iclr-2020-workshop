@@ -1,6 +1,6 @@
 ---
 layout: default
-title: #ai4earth
+title: AI for Earth Sciences
 ---
 
 # Info for Speakers and Invited Guests
