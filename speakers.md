@@ -14,7 +14,7 @@ Each talk will proceed as follows:
 
 - Introduction of the talk by the session chair
 - Video streaming of your pre-recorded talk through slideslive   
-- A Q/A session with you. At this point, we will un-mute your audio on zoom. Most of the questions will be sourced from the audience through our rocket.chat and [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) channels. The questions will be filtered and read by the session chair. Questions may also be sourced directly through "raised hands" in zoom from other speakers in your session.  
+- A Q&A session with you. At this point, we will un-mute your audio on zoom. Most of the questions will be sourced from the audience through our rocket.chat and [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) channels. The questions will be filtered and read by the session chair. Questions may also be sourced directly through "raised hands" in zoom from other speakers in your session.  
 
 Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
 
