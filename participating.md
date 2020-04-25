@@ -1,6 +1,6 @@
 ---
 layout: default
-title: #ai4earth
+title: AI for Earth Sciences
 ---
 
 # Participating in the #ai4earth @ICLR2020 Workshop
