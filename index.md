@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Join our live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
+## [View our live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
 
 ## [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
@@ -17,6 +17,8 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 ### [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
 ### Attendees  
+
+## [View our live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
 
 Thank you for your interest in the ai4earth workshop at ICLR. You may participate in the workshop by watching the official livestream, reading our accepted papers, and asking questions to our speakers via [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). Session moderators will direct questions to each speaker via zoom after their pre-recorded video has streamed.  For in-depth discussion, we encourage you to contact the authors on slack.   
 
