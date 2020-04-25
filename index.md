@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-## [SPEAKER INFO can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+## [ZOOM INFO FOR SPEAKERS and INVITED GUESTS](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
-## Attendees may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
+## General ICLR attendees may [view the live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
 
 ## AI for Earth Sciences
 
@@ -13,9 +13,9 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ---
 
-### [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+### [The latest information for speakers and invited guests can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
-### Attendees  
+### General Attendees  
 
 ## [View our live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
 
