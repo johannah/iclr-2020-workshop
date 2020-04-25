@@ -14,15 +14,7 @@ Our workshop seeks to bring cutting edge geoscientific and planetary challenges 
 
 ---
 
-## Schedule
-
-ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual).  Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) on April 26 from 7am-4pm PDT (San Francisco) time. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
-
-We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).   The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title.
-
-All times are listed in Pacific Daylight Time (San Francisco, USA).
-
-## [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+### [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
 ### Attendees  
 
@@ -30,6 +22,15 @@ Thank you for your interest in the ai4earth workshop at ICLR. You may participat
 
 Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.
 
+---
+
+## Schedule
+
+ICLR will be a [fully virtual conference](https://iclr.cc/Conferences/2020/virtual).  Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences) on April 26 from 7am-4pm PDT (San Francisco) time. Join us in [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) to mingle with workshop attendees outside of zoom. 
+
+We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes).   The duration shown in the schedule is approximate time allocated for introduction, video recording and Q/A around each title.
+
+All times are listed in Pacific Daylight Time (San Francisco, USA).
 
 | Start | End | Type | Speaker | Title | 
 | ---- | ---- | --------- | ---------------- | -------- |
@@ -102,9 +103,6 @@ Registration to the main ICLR conference is encouraged as it will give you acces
 | 14:30 | 15:00 | Keynote | [Prof. Daniel M. Kammen, UC Berkeley](https://en.wikipedia.org/wiki/Daniel_Kammen) | Data Science for the Clean Energy Revolution | 
 | 15:00 | 15:30 | Discussion | Keynote & AI for Earth Sciences Team | AI Synergies in Energy, Resources & Earth System |
 | 15:30 | 16:00 | Closing Keynote | [Paul Miller aka DJ Spooky](https://en.wikipedia.org/wiki/DJ_Spooky) | Art, AI & Earth Sciences |     
-
-
-
  
 ## Contact Us
 
