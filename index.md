@@ -4,7 +4,7 @@ layout: default
 
 ## [View our live stream](https://slideslive.com/38926826/ai-for-earth-sciences) from 7am-4pm PDT on April 26th, 2020.
 
-## [The latest information for speakers can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
+## [SPEAKER INFO can be found here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html)
 
 ## AI for Earth Sciences
 
