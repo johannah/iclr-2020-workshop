@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Participating in #ai4earth
+title: #ai4earth
 ---
+
+# Participating in the #ai4earth @ICLR2020 Workshop
 
 Thank you for your interest in the #ai4earth workshop at ICLR! You may participate in the workshop by watching the official [livestream](https://slideslive.com/38926826/ai-for-earth-sciences), reading our accepted [papers](https://ai4earthscience.github.io/iclr-2020-workshop/#schedule.html), and asking questions to our speakers via [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ). 
 Registration to the main ICLR conference is encouraged as it will give you access to additional conference content, however it is not required to view the workshop's livestream. Please see the [ICLR website](https://iclr.cc/Register/view-registration) for more details.  
