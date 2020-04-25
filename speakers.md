@@ -2,9 +2,7 @@
 layout: default
 ---
 
-### Virtual Conference Details
-
-#### SPEAKERS:
+#### INFO FOR SPEAKERS:
 
 Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
 
@@ -24,13 +22,13 @@ Start times in in PDT for each session are:
 
 | Time | Session | Session Chair |  
 | --- | --- | --- |  
-| 7:00 | [Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/index.md#atmospheric-science) | Kelly |   
-| 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |   
-| 9:10 | [Solid Earth](#solid-earth) | Kelly |   
-| 10:00 | [Theoretical Advances](#theoretical-advances) | Johanna |   
-| 11:30 | [Remote Sensing](#remote-sensing) | Johanna |    
-| 12:30  [EnviroNet](#environet) | Karthik |   
-| 14:30 | [Keynotes](#keynotes) | Karthik |  
+| 7:00 | [Atmospheric Science](http://ai4earthscience.github.io/iclr-2020-workshop/#atmospheric-science) | Kelly |   
+| 8:10 | [Hydro and Cryospheres](http://ai4earthscience.github.io/iclr-2020-workshop/#hydro-and-cryospheres) | Karthik |   
+| 9:10 | [Solid Earth](http://ai4earthscience.github.io/iclr-2020-workshop/#solid-earth) | Kelly |   
+| 10:00 | [Theoretical Advances](http://ai4earthscience.github.io/iclr-2020-workshop/#theoretical-advances) | Johanna |   
+| 11:30 | [Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/#remote-sensing) | Johanna |    
+| 12:30  [EnviroNet](http://ai4earthscience.github.io/iclr-2020-workshop/#environet) | Karthik |   
+| 14:30 | [Keynotes](http://ai4earthscience.github.io/iclr-2020-workshop/#keynotes) | Karthik |  
 
 ---
 
