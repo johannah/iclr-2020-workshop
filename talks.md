@@ -10,8 +10,8 @@ Invited Talk: [Hydronets: Leveraging River Structure for Hydrolic Modeling](http
 Speaker: Zach Moshe   
 
 ###### ID01
-Invited Talk: [Disaster Damage Assessment In Multi-temporal Satellite Imagery Via Residual Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth19.pdf)   
-Speaker: Hassan Kane   
+Invited Talk: [Building Disaster Damage Assessment in Satellite Imagery with Multi-Temporal Fusion](https://arxiv.org/abs/2004.05525)   
+Speaker: Ethan Weber & Hassan Kane   
 
 ###### ID02
 Invited Talk: [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf)  
