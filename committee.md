@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI4Earth Sciences Workshop Committee
+title: AI for Earth Sciences
 description: committee
 ---
 
