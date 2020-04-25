@@ -1,7 +1,6 @@
 ---
 layout: default
-title: #AI4Earth
-description: details on each talk
+title: AI for Earth Sciences
 ---
 
 # AI4Earth Sciences Workshop Submissions
