@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Info for Speakers and Invited Guests
+title: #ai4earth
 ---
 
+# Info for Speakers and Invited Guests
 
 Thanks so much for contributing to this workshop. Although the format isn't at all what any of us expected a few months ago,  we think that with your continued engagement, we can still learn a lot and enjoy ourselves on the 26th. With that in mind, please be prepared to bear with us as we adjust to the virtual format.  
 
