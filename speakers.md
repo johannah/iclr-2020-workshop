@@ -8,15 +8,15 @@ Thanks so much for contributing to this workshop. Although the format isn't at a
 
 ## Connecting to the Zoom Conference Call  
 
-Speakers are asked to join our private zoom conference at the beginning of their sessions. Each speaker should have received a link via email (search "AI for Earch Sciences" in your inbox) which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
+Speakers are asked to join our private zoom conference before the beginning of their sessions. Each speaker should have received a link via email (search "AI for Earch Sciences" or "zoom" in your inbox) which enables them to enter the password-protected zoom conference room. Please let us know asap if you did not receive this link. 
 
 ## Session Flow:  
 
 Each talk will proceed as follows:  
 
-- Introduction of the talk by the session chair
-- Video streaming of your pre-recorded talk through slideslive   
-- A Q&A session with you. At this point, we will un-mute your audio on zoom. Most of the questions will be sourced from the audience through our rocket.chat and [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) channels. The questions will be filtered and read by the session chair. Questions may also be sourced directly through "raised hands" in zoom from other speakers in your session.  
+1) Introduction of the speaker and paper by the session chair via zoom (speaker stays muted).  
+2) Slideslive streams the pre-recorded video.     
+3) A live zoom Q&A session with the speaker. At this point, we will un-mute the speaker's audio. Most of the questions will be sourced from the audience through our rocket.chat and [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) channels and read by the session chair. Questions may also be asked directly through "raised hands" in zoom from other speakers or invited guests in your session.  
 
 Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
 
