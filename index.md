@@ -32,12 +32,12 @@ Start times in in PDT for each session are:
 
 | Time | Session | Session Chair |  
 | --- | --- | --- |  
-| 7:00 | [Atmospheric Science](#atmospheric-science) | Kelly | 
-| 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |  
+| 7:00 | [Atmospheric Science](#atmospheric-science) | Kelly |   
+| 8:10 | [Hydro and Cryospheres](#hydro-and-cryospheres) | Karthik |   
 | 9:10 | [Solid Earth](#solid-earth) | Kelly |   
 | 10:00 | [Theoretical Advances](#theoretical-advances) | Johanna |   
-| 11:30 | [Remote Sensing](#remote-sensing) | Johanna |  
-| 12:30  [EnviroNet](#environet) | Karthik | 
+| 11:30 | [Remote Sensing](#remote-sensing) | Johanna |    
+| 12:30  [EnviroNet](#environet) | Karthik |   
 | 14:30 | [Keynotes](#keynotes) | Karthik |  
 
 ---
