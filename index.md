@@ -59,7 +59,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | ~~8:10~~ | ~~8:25~~ | Invited | [Kelly Kochanski](https://slideslive.com/38926355/) | [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf) |
 | ~~8:25~~ | ~~8:48~~ | [Invited](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04slides.pdf) | [Zach Moshe](https://slideslive.com/38926352/) | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf) |   
 | ~~8:48~~ | ~~9:00~~ | Lightning | [Brian Cerrón](https://slideslive.com/38926369/) | [Detection Of Housing And Agriculture Areas On Dry-riverbeds For The Evaluation Of Risk By Landslides Using Low-resolution Satellite Imagery Based On Deep Learning. Study Zone: Lima, Peru](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth13.pdf) |    
-| X | X | Abstract  | Mearg Belay B. Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
+| ~~X~~ | ~~X~~ | Abstract  | Mearg Belay B. Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
 | ~~9:00~~ | ~~9:10~~ | Morning Break | | |
 
 ### Solid Earth   
@@ -69,7 +69,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | ~~9:10~~ | ~~9:30~~ | Spotlight | [Seyed M Mousavi](https://slideslive.com/38926364/) | [Hierarchical Attentive Modeling Of Earthquake Signals](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth06.pdf) |    
 | ~~9:30~~ | ~~9:48~~ | Regular | [Bas Peters](https://slideslive.com/38926360/) | [Fully Reversible Neural Networks For Large-scale Surface And Sub-surface Characterization Via Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf) |    
 | ~~9:48~~ | ~~10:00~~  | Lightning | [Tue Boesen](https://slideslive.com/38926368/) | [Semi-supervised Clustering For Oil Prospectivity](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth12.pdf) |   
-| XX | XX | Abstract | Hadeer A El Ashhab | [Modeling Hydrocarbons Flow From Earth Using Deep Learning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth17.pdf) |   
+| ~~XX~~ | ~~XX~~ | Abstract | Hadeer A El Ashhab | [Modeling Hydrocarbons Flow From Earth Using Deep Learning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth17.pdf) |   
 
 
 
@@ -80,8 +80,8 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | ~~10:00~~ | ~~10:30~~ | Spotlight | [Arvind T Mohan](https://slideslive.com/38926358/) | [Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf) |   
 | ~~10:30~~ | ~~10:55~~ | Spotlight | [Arvind T Mohan](https://slideslive.com/38926370/) | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
 | ~~10:55~~ | ~~11:15~~ | [Regular](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | [Srija Chakraborty](https://slideslive.com/38926359/) | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
-| X  | X | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
-| 11:15 | 11:30 | Noon Break | | | 
+| ~~X~~  | ~~X~~ | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
+| ~~11:15~~ | ~~11:30~~ | Noon Break | | | 
 
 
 ### Remote Sensing  
@@ -96,7 +96,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 
 | Start | End | Type | Speaker & Video Link | Title & Paper Link|    
 | ---- | ---- | --------- | ---------------- | -------- |     
-| 12:30 | 13:00 | Invited | [Lukas Kapp-Schwoerer](https://slideslive.com/38926361/) | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
+| ~~12:30~~ | 13:00 | Invited | [Lukas Kapp-Schwoerer](https://slideslive.com/38926361/) | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
 | 13:00 | 13:15 | Invited | [Stephen Rasp](https://slideslive.com/38926762/) | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | 13:15 | 13:30 | Lightning | [Seyed M Mousavi](https://slideslive.com/38926366/) | [Dataset Labeling Paper: AI-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | 13:30 | 13:55 | Invited | [Edward W Obropta](https://slideslive.com/38926354/) | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
