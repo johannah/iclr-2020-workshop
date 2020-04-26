@@ -30,7 +30,7 @@ Each talk will proceed as follows:
 2) Slideslive streams the pre-recorded video.     
 3) A live zoom Q&A session with the speaker. At this point, we will un-mute the speaker's audio. Most of the questions will be sourced from the audience through our [slack](https://join.slack.com/t/ai4earth/shared_invite/zt-e30wpddc-lVNgNthtO_HYQOmR0Id~yQ) channels and read by the session chair. Questions may also be asked directly through "raised hands" in zoom from other speakers or invited guests in your session.  
 
-A technician from slideslive will help us with timing as we will need to induce a delay of up to one minute when switching back and forth from the pre-recorded videos. This directive will (likely) come from an audio/visual countdown in zoom from the *slideslive* user. Be aware that it is probably going to feel a bit clunky (at least at first) in the zoom conference room, but should look fairly natural in the livestream. For reference, you can think of the zoom call as backstage, whereas the livestream will be the audience.    
+A technician from slideslive will help us with timing as we will need to induce a delay of up to one minute when switching from the pre-recorded videos to Q&A. This directive will (likely) come from an audio/visual countdown in zoom from the *slideslive* user. Be aware that it is probably going to feel a bit clunky (at least at first) in the zoom conference room, but should look fairly natural in the livestream. For reference, you can think of the zoom call as backstage, whereas the livestream will be the audience.    
 
 Please message your chair directly using the zoom chat function if you have a question during the session. For questions before your session starts, contact us via slack in the #asktheorganizers channel. 
 
