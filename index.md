@@ -11,6 +11,16 @@ title: AI for Earth Sciences
 ## Everyone else should *[click here](https://ai4earthscience.github.io/iclr-2020-workshop/participating.html) to learn how to virtually participate*
 ---
 
+<div id="presentation-embed-38926826"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38926826', {
+        presentationId: '38926826',
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true
+    });
+</script>
+
 Our workshop brings together earth scientists and machine learning experts to try to solve some of the earth's greatest problems.  We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
 ## Schedule
