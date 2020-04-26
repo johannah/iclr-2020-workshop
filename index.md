@@ -33,7 +33,7 @@ Tune into our [livestream](https://slideslive.com/38926826/ai-for-earth-sciences
 
 The duration shown in the schedule is approximate time allocated for introduction, video recording, and Q&A for each topic.
 
-*Zoom attendees must completely close the ICLR stream before joining the zoom conference (seriously - you will regret it if you don't)*
+*Zoom attendees must completely close the ICLR stream before speaking in the zoom conference (seriously - you will regret it if you don't)*
 
 All times are listed in Pacific Daylight Time (San Francisco, USA).
 
