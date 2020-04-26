@@ -3,7 +3,9 @@ layout: default
 title: AI for Earth Sciences
 ---
 
-##  Join us virtually for the ICLR AI4Earth workshop April 26, 2020 from 7am-4pm PDT!  
+#  Join us virtually for the ICLR AI4Earth workshop April 26, 2020 from 7am-4pm PDT!  
+
+---
 
 ## *Speakers and Invited Guests should [click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) for important zoom and scheduling details*. 
 ---
