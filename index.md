@@ -82,7 +82,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 
 | Start | End | Type | Speaker & Video Link | Title & Paper Link|    
 | ---- | ---- | --------- | ---------------- | -------- |     
-| 12:30 | 13:00 | Invited | [Mayur Mudigonda ](https://slideslive.com/38926361/) | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
+| 12:30 | 13:00 | Invited | [Lukas Kapp-Schwoerer](https://slideslive.com/38926361/) | [Climatenet: Bringing The Power Of Deep Learning To Weather And Climate Sciences Via Open Datasets And Architectures](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth21.pdf) | 
 | 13:00 | 13:15 | Invited | [Stephen Rasp](https://slideslive.com/38926762/) | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | 13:15 | 13:30 | Lightning | [Seyed M Mousavi](https://slideslive.com/38926366/) | [Dataset Labeling Paper: AI-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | 13:30 | 13:55 | Invited | [Edward W Obropta](https://slideslive.com/38926354/) | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
