@@ -15,6 +15,13 @@ Speakers are asked to join our private zoom conference before the beginning of t
 
 Speakers must join for their session, but need not stay all day. All speakers and invited guests are free to drop in and out of the zoom conference as their schedule allows. In fact, we expect that the audio/visual experience will be superior on the livestream link. The tradeoff is that in the zoom meeting you'll have the ability to engage directly with the other authors in Q&A. We're leaving it up to you to choose your preferred way to engage in the workshop. 
 
+## Important Zoom Details:   
+
+- *It is imperative that you close the ICLR livestream before joining the zoom call!* Feedback from the audio can really disrupt the system. Simply muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted - so please close the tab. 
+- Please use headphones and a dedicated microphone (if possible) to minimize unexpected noise. 
+- Your microphone will be automatically muted when you join the zoom session. Speakers will be unmuted for the Q/A session.  
+-  Slideslive recommends changing the preferences in Zoom so that you stream "HD" video. 
+
 ## Session Flow:  
 
 Each talk will proceed as follows:  
@@ -45,9 +52,3 @@ If something isn't working right for you, or you have a tip to improve session f
 
 ---
 
-## Important Zoom Details:   
-
-- *It is imperative that you close the ICLR livestream before joining the zoom call!* Feedback from the audio can really disrupt the system. Simply muting the livestream is not guaranteed to prevent audio interference as some browsers will auto-reload the with the stream unmuted - so please close the tab. 
-- Please use headphones and a dedicated microphone to minimize unexpected noise. 
-- Your microphone will be automatically muted when you join the zoom session. Speakers will be unmuted for the Q/A session.  
--  Slideslive recommends changing the preferences in Zoom so that you stream "HD" video. 
