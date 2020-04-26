@@ -77,7 +77,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 
 | Start | End | Type | Speaker & Video Link | Title & Paper Link |    
 | ---- | ---- | --------- | ---------------- | -------- |     
-| ~~10:00~~ | 10:30 | Spotlight | [Arvind T Mohan](https://slideslive.com/38926358/) | [Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf) |   
+| ~~10:00~~ | ~~10:30~~ | Spotlight | [Arvind T Mohan](https://slideslive.com/38926358/) | [Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf) |   
 | ~~10:30~~ | ~~10:55~~ | Spotlight | [Arvind T Mohan](https://slideslive.com/38926370/) | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
 | ~~10:55~~ | ~~11:15~~ | [Regular](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | [Srija Chakraborty](https://slideslive.com/38926359/) | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
 | X  | X | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
