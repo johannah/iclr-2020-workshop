@@ -54,8 +54,9 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | ---- | ---- | --------- | ---------------- | -------- |     
 | 9:10 | 9:30 | Spotlight | [Seyed M Mousavi](https://slideslive.com/38926364/) | [Hierarchical Attentive Modeling Of Earthquake Signals](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth06.pdf) |    
 | 9:30 | 9:48 | Regular | [Bas Peters](https://slideslive.com/38926360/) | [Fully Reversible Neural Networks For Large-scale Surface And Sub-surface Characterization Via Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth24.pdf) |    
-| 9:48 | 10:00 | Lightning | Hadeer A El Ashhab | [Modeling Hydrocarbons Flow From Earth Using Deep Learning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth17.pdf) |   
-| X | X  | Paper | [Tue Boesen](https://slideslive.com/38926368/) | [Semi-supervised Clustering For Oil Prospectivity](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth12.pdf) |   
+| 9:48 | 10:00  | Lightning | [Tue Boesen](https://slideslive.com/38926368/) | [Semi-supervised Clustering For Oil Prospectivity](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth12.pdf) |   
+| XX | XX | Abstract | Hadeer A El Ashhab | [Modeling Hydrocarbons Flow From Earth Using Deep Learning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth17.pdf) |   
+
 
 
 ### Theoretical Advances  
