@@ -57,7 +57,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | Start | End | Type | Speaker & Video Link | Title and Paper Link |    
 | ---- | ---- | --------- | ---------------- | -------- |        
 | ~~8:10~~ | ~~8:25~~ | Invited | [Kelly Kochanski](https://slideslive.com/38926355/) | [Surrogate Sea Ice Model Enables Efficient Tuning](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth26.pdf) |
-| ~~8:25 | 8:48~~ | [Invited](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04slides.pdf) | [Zach Moshe](https://slideslive.com/38926352/) | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf) |   
+| ~~8:25~~ | ~~8:48~~ | [Invited](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04slides.pdf) | [Zach Moshe](https://slideslive.com/38926352/) | [Hydronets: Leveraging River Structure for Hydrologic Modeling](https://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth04.pdf) |   
 | ~~8:48~~ | ~~9:00~~ | Lightning | [Brian Cerrón](https://slideslive.com/38926369/) | [Detection Of Housing And Agriculture Areas On Dry-riverbeds For The Evaluation Of Risk By Landslides Using Low-resolution Satellite Imagery Based On Deep Learning. Study Zone: Lima, Peru](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth13.pdf) |    
 | X | X | Abstract  | Mearg Belay B. Shibeshi |  [Geo-spatial Approach For Assessing The Impact Of Land-use And Land-cover Change On Groundwater Recharge: A Case Study In Akaki Catchment, Central Ethiopia](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth05.pdf) |    
 | ~~9:00~~ | ~~9:10~~ | Morning Break | | |
@@ -78,8 +78,8 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | Start | End | Type | Speaker & Video Link | Title & Paper Link |    
 | ---- | ---- | --------- | ---------------- | -------- |     
 | ~~10:00~~ | 10:30 | Spotlight | [Arvind T Mohan](https://slideslive.com/38926358/) | [Embedding Hard Physical Constraints In Convolutional Neural Networks For 3d Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth14.pdf) |   
-| 10:30 | 10:55 | Spotlight | [Arvind T Mohan](https://slideslive.com/38926370/) | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
-| 10:55 | 11:15 | [Regular](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | [Srija Chakraborty](https://slideslive.com/38926359/) | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
+| ~~10:30~~ | ~~10:55~~ | Spotlight | [Arvind T Mohan](https://slideslive.com/38926370/) | [Wavelet-powered Neural Networks For Turbulence](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth15.pdf) |   
+| ~~10:55~~ | ~~11:15~~ | [Regular](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23slides.pdf) | [Srija Chakraborty](https://slideslive.com/38926359/) | [Time-varying Semantic Representations Of Planetary Observations For Discovering Novelties](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth23.pdf) |   
 | X  | X | Abstract | Taesung Kim | [Gaganet: End-to-end Multivariate Time Series Imputation And Prediction With Gated Generated Adversarial Networks](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth03.pdf) |  
 | 11:15 | 11:30 | Noon Break | | | 
 
@@ -88,8 +88,8 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 
 | Start | End | Type | Speaker & Video Link | Title & Paper Link |   
 | --- | --- | --- | --- | --- |     
-| 11:30 | 12pm | Invited | [Ethan Weber & Hassan Kane](https://slideslive.com/38926353/) | [Building Disaster Damage Assessment in Satellite Imagery with Multi-Temporal Fusion](https://arxiv.org/abs/2004.05525) |    
-| 12pm | 12:30 | [Spotlight](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10slides.pdf) | [Maxim Neumann](https://slideslive.com/38926357) | [In-domain Representation Learning For Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10.pdf) |   
+| ~~11:30~~ | ~~12pm~~ | Invited | [Ethan Weber & Hassan Kane](https://slideslive.com/38926353/) | [Building Disaster Damage Assessment in Satellite Imagery with Multi-Temporal Fusion](https://arxiv.org/abs/2004.05525) |    
+| ~~12pm~~ | ~~12:30~~ | [Spotlight](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10slides.pdf) | [Maxim Neumann](https://slideslive.com/38926357) | [In-domain Representation Learning For Remote Sensing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth10.pdf) |   
 
 
 ### EnviroNet   
