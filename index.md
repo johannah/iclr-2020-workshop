@@ -100,7 +100,7 @@ All times are listed in Pacific Daylight Time (San Francisco, USA).
 | ~~13:00~~ | ~~13:15~~ | Invited | [Stephan Rasp](https://slideslive.com/38926762/) | [WeatherBench: A benchmark dataset for data-driven weather forecasting](https://arxiv.org/abs/2002.00469) |    
 | ~~13:15~~ | ~~13:30~~ | Lightning | [Seyed M Mousavi](https://slideslive.com/38926366/) | [Dataset Labeling Paper: AI-based Earthquake Signal Detection And Processing](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth07.pdf) |  
 | ~~13:30~~ | ~~13:55~~ | Invited | [Edward W Obropta](https://slideslive.com/38926354/) | [Infrared Solar Module Dataset For Anomaly Detection](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth22.pdf) | 
-| 13:55 | 14:15 | Invited |  Ankush Khandelwal | [AquaNet](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth28.pdf) |       
+| ~~13:55~~ | ~~14:15~~ | Invited |  Ankush Khandelwal | [AquaNet](http://ai4earthscience.github.io/iclr-2020-workshop/papers/ai4earth28.pdf) |       
 | 14:15 | 14:25 | Extended Discussion | [Vipin Kumar](https://www-users.cs.umn.edu/~kumar001/) & S. Karthik Mukkavilli | EnviroNet |
 
 ### Keynotes & Discussion
