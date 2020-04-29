@@ -7,7 +7,7 @@ title: AI for Earth Sciences
 
 ## Announcements 
 
-AI for Earth Sciences will also be joining Tackling Climate Change with ML on the 29th of April for a Climate Science and Adaptation Day between 7am-12.30pm for sessions on Climate Change Adaptability, Emulators and Forecasting, [click here](https://us02web.zoom.us/meeting/register/tZMlcuGhqj0vEtQuHyCKF-IuCaFGH8la7eUR) for zoom registration details and [click here](https://www.climatechange.ai/ICLR2020_workshop#clisciadapt-day) for the schedule. You may use our slack channel ai4earth, #askauthor for Q/A 
+AI for Earth Sciences will also be joining Tackling Climate Change with ML on the 29th of April for a [Climate Science and Adaptation Day](https://www.climatechange.ai/ICLR2020_workshop#clisciadapt-day) between 7am-12.30pm PDT for sessions on Climate Change Adaptability, Emulators and Forecasting, [click here](https://us02web.zoom.us/meeting/register/tZMlcuGhqj0vEtQuHyCKF-IuCaFGH8la7eUR) for zoom registration details. You may use our slack channel ai4earth, #askauthor for Q/A similar to our workshop on April 26th. 
 
 ---
 ## *For those who missed our workshop, you can catch the full recorded webinar, papers & presentations below*  
