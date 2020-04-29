@@ -26,7 +26,7 @@ AI for Earth Sciences will also be joining Tackling Climate Change with ML on th
 </script>
 
 ---
-Our workshop brings together earth scientists and machine learning experts to try to solve some of the earth's greatest problems.  We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
+Our workshop brings together Earth scientists and machine learning experts to try to solve some of the Earth's greatest problems.  We've divided our workshop into several themed sections: [Atmospheric Science](#atmospheric-science), [Hydro and Cryospheres](#hydro-and-cryospheres), [Solid Earth](#solid-earth), [Theoretical Advances](#theoretical-advances), [Remote Sensing](#remote-sensing), [EnviroNet](#environet), [Keynotes](#keynotes). 
 
 ## Schedule
 
