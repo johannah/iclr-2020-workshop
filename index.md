@@ -3,12 +3,12 @@ layout: default
 title: AI for Earth Sciences
 ---
 
-#  Join us virtually for the ICLR AI4Earth workshop April 26, 2020 from 7am-4pm PDT 
+#  Thank you for joining us virtually for the ICLR AI4Earth workshop on April 26 and making it a success despite challenging times! 
 
 ---
-## *Speakers and Invited Guests should [click here](https://ai4earthscience.github.io/iclr-2020-workshop/speakers.html) for zoom and scheduling details*. 
+## New: *AI for Earth Sciences will be joining Tackling Climate Change with ML on the 29th of April for a Climate Science and Adaptation Day between 7am-12.30pm for sessions on Climate Change Adaptability, Emulators and Forecasting, [click here](https://us02web.zoom.us/meeting/register/tZMlcuGhqj0vEtQuHyCKF-IuCaFGH8la7eUR) for zoom registration details and [click here](https://www.climatechange.ai/ICLR2020_workshop#clisciadapt-day) for the schedule. You may use our slack channel ai4earth, #askauthor for Q/A* 
 ---
-## Everyone else should *[click here](https://ai4earthscience.github.io/iclr-2020-workshop/participating.html) to learn how to virtually participate*
+## *For those who missed our AI for Earth Sciences workshop on the 26th, you can catch the recorded webinar, papers and videos below*  
 ---
 
 # Livestream
