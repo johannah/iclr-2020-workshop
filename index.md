@@ -3,7 +3,7 @@ layout: default
 title: AI for Earth Sciences
 ---
 
-#  Thank you for joining the 1st AI for Earth Sciences workshop virtually at ICLR and making it a success in these challenging times!! 
+#  Thank you for joining the 1st AI for Earth Sciences workshop virtually at ICLR! Join us at NeurIPS 2020 for another great workshop: [https://ai4earthscience.github.io/neurips-2020-workshop/](https://ai4earthscience.github.io/neurips-2020-workshop/) 
 
 ## Announcements 
 
